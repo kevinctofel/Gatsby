@@ -8,13 +8,15 @@ category:
 thumbnail: /images/Google_NYC.webp
 tags: ["javascript"]
 ---
-##### It works! #####
+##### It works #####
+
 This post suggests that I correctly have my [Hugo-rendered](https://gohugo.io) site up and running. Check the link for more information on the Hugo open-source software, but essentially, it takes Markdown content and renders static site pages for much faster delivery than a traditional CMS with a database, such as Wordpress.
 
-For now, I have the content being hosted for free on [Netlify](https://www.netlify.com) which does offer a reasonable amount of hosting features at no cost. My intent is to integrate the open-source Netlify CMS so I don't have to write Markdown files in a text editor. And then at some point, I'll likely move the entire site to GitHub Pages for free. 
+For now, I have the content being hosted for free on [Netlify](https://www.netlify.com) which does offer a reasonable amount of hosting features at no cost. My intent is to integrate the open-source Netlify CMS so I don't have to write Markdown files in a text editor. And then at some point, I'll likely move the entire site to GitHub Pages for free.
 
-##### Why [GitHub Pages](https://pages.github.com/)? ##### 
-Because all of the content on this site is actually stored on GitHub. 
+##### Why [GitHub Pages](https://pages.github.com/) #####
+
+Because all of the content on this site is actually stored on GitHub.
 
 ![GitHub repo of my blog](./src/images/GitHub-repo-for-my-blog.png)
 
@@ -35,7 +37,8 @@ That offers me a relatively permanent record of all the content. At the moment N
 * Look at coding an image converter (or connecting to one using JS) so all images are .webp if supported and .jpeg/.gif/.png if not
 * Code something up to save multiple image sizes for better responsive web experience
 
-##### Thanks to... #####
+##### Thanks #####
+
 [Chris Stayte](https://blog.chrisstayte.com): Helpful videos on how to set up & use Hugo as well as Netlify
 
 [Munif Tanjam](https://minimo.netlify.app/): I wanted a great looking, highly customizable minimalist theme and Munif's Minimo is what I chose.
