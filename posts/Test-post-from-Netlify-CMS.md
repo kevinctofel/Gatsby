@@ -4,6 +4,7 @@ title: Test post from Netlify CMS
 date: 2020-05-30T21:46:37.364Z
 thumbnail: /images/Google_NYC.webp
 tags: ["javascript"]
+published: true
 
 ---
 ![Netlify CMS image](/images/netlify-cms.jpg "Netlify CMS")
