@@ -1,7 +1,7 @@
 ---
 title: Hello World
 date: 2020-05-25T18:34:46.000Z
-draft: false
+published: true
 image: /images/Google_NYC.webp
 category:
   - thoughts
