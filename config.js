@@ -1,19 +1,17 @@
 "use strict"
 
 module.exports = {
-  url: "https://developer-diary.netlify.com",
+  url: "https://example.netlify.com",
   title: "Kevin C. Tofel",
   tagline: "A modern Curious George",
-  copyright: "© 2019 willjw3, All rights reserved",
+  copyright: "© 2020 Kevin C. Tofel, All rights reserved",
   author: {
     name: "Kevin C. Tofel",
     bio: "50 year old CS student",
     contacts: {
       linkedin: "https://www.linkedin.com/in/kevinctofel/",
-      github: "https://github.com/kevinctofeo",
-      stackoverflow:
-        "https://stackoverflow.com/users/10262432/will-ward?tab=profile",
-      freecodecamp: "https://www.freecodecamp.org/willjw3",
+      github: "https://github.com/kevinctofel",
+      freecodecamp: "https://www.freecodecamp.org/kevinctofel",
       twitter: "https://twitter.com/kevinctofel",
     },
   },

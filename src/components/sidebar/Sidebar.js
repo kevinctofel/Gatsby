@@ -20,7 +20,6 @@ const Sidebar = () => {
                             contacts {
                                 linkedin
                                 github
-                                stackoverflow
                                 freecodecamp
                                 twitter
                             }
