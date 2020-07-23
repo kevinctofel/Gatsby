@@ -1,8 +1,9 @@
 ---
 title: "Git sub-modules: I finally see the power"
 date: 2020-05-30T21:10:43.000Z
-draft: false
+published: true
 thumbnail: /images/Google_NYC.webp
+tags: ["git"]
 ---
 As I noted in my last post, I'm still a n00b developer. So that's my defense in not knowing about [Git sub-modules](https://git-scm.com/book/en/v2/Git-Tools-Submodules), which have been around for years. 
 
