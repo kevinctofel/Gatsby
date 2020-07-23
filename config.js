@@ -2,19 +2,19 @@
 
 module.exports = {
   url: "https://developer-diary.netlify.com",
-  title: "Developer Diary",
-  tagline: "Autodidact developer and sometimes hoop-jumper",
+  title: "Kevin C. Tofel",
+  tagline: "A modern Curious George",
   copyright: "© 2019 willjw3, All rights reserved",
   author: {
-    name: "WILL JAY",
-    bio: "Self-taught web developer and whisky aficionado",
+    name: "Kevin C. Tofel",
+    bio: "50 year old CS student",
     contacts: {
-      linkedin: "https://www.linkedin.com/in/will-ward-65234a170/",
-      github: "https://github.com/willjw3",
+      linkedin: "https://www.linkedin.com/in/kevinctofel/",
+      github: "https://github.com/kevinctofeo",
       stackoverflow:
         "https://stackoverflow.com/users/10262432/will-ward?tab=profile",
       freecodecamp: "https://www.freecodecamp.org/willjw3",
-      twitter: "https://twitter.com/willjw3",
+      twitter: "https://twitter.com/kevinctofel",
     },
   },
   labels: [
