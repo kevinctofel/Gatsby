@@ -8,7 +8,7 @@ tags: []
 ---
 I dropped $68 on [this Western Digital 250 GB M.2 NVMe drive](https://www.westerndigital.com/products/internal-drives/wd-black-sn750-nvme-ssd) from Amazon this week and it arrived today. 
 
-When I [built my PC last month](https://www.kctofel.com/post/2020-06-28-should-everyone-build-their-own-pc-at-least-once/), I wanted to keep the budget low, so I put a less expensive 500 GB SSD SATA drive in to get started. It's fine for the basics and since it has flash memory inside it's faster than a traditional mechanical hard drive.
+When I [built my PC last month](https://www.kctofel.com/2020-06-28-should-everyone-build-their-own-pc-at-least-once/), I wanted to keep the budget low, so I put a less expensive 500 GB SSD SATA drive in to get started. It's fine for the basics and since it has flash memory inside it's faster than a traditional mechanical hard drive.
 
 [M.2 NVMe drive](https://en.wikipedia.org/wiki/M.2)s are about an equal leap forward over SSD SATA drives, mostly because of the interface, which can handle far more bandwidth. And these drives are small:
 
