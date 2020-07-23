@@ -4,6 +4,7 @@ title: Getting JavaScript-y with APIs, even if it's hard to secure the keys
 date: 2020-06-06T13:22:01.715Z
 thumbnail: /images/javascript-textbook.jpg
 published: true
+tags: ["javascript"]
 ---
 ## School's out for summer!
 
