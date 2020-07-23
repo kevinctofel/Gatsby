@@ -6,6 +6,7 @@ image: /images/Google_NYC.webp
 category:
   - thoughts
 thumbnail: /images/Google_NYC.webp
+tags: ["javascript"]
 ---
 ##### It works! #####
 This post suggests that I correctly have my [Hugo-rendered](https://gohugo.io) site up and running. Check the link for more information on the Hugo open-source software, but essentially, it takes Markdown content and renders static site pages for much faster delivery than a traditional CMS with a database, such as Wordpress.
