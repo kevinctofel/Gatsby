@@ -6,7 +6,7 @@ thumbnail: /images/Google_NYC.webp
 published: true
 tags: ["graphql"]
 ---
-I've gotten away from posting here or continuing [my path towards learning Gatsby for blog publishing](https://www.kctofel.com/post/2020-06-18-the-great-gatsby-vs-hugo-for-static-site-generation/) of late, mainly because of other work, my [Chromebook blogging](https://www.aboutchromebooks.com) and prepping for my fall JavaScript class. 
+I've gotten away from posting here or continuing [my path towards learning Gatsby for blog publishing](https://www.kctofel.com/2020-06-18-the-great-gatsby-vs-hugo-for-static-site-generation/) of late, mainly because of other work, my [Chromebook blogging](https://www.aboutchromebooks.com) and prepping for my fall JavaScript class. 
 
 Yeah, I'm one of *those people*: I get the book for class a month or two in advance to start reading, coding and exploring. I do this for two reasons. One, it obviously helps during the semester for better understanding of the material, and two, it gives me some advance knowledge to help run study groups for my peers.
 
