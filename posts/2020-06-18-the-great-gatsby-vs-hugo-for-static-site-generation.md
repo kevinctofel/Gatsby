@@ -3,6 +3,8 @@ layout: blog
 title: The Great Gatsby vs Hugo for static site generation
 date: 2020-06-18T18:58:37.536Z
 thumbnail: /images/simple-hybrid-site.png
+published: true
+tags: ["gatsby"]
 ---
 Well that didn't take long. I've been thinking about the tools that power this site since my [last post](https://www.kctofel.com/post/2020-06-06-getting-javascript-y-with-apis-even-if-its-hard-to-secure-the-keys/) because I couldn't insert or embed [my demo JavaScript app in it](https://java-script-seven.now.sh/). 
 
