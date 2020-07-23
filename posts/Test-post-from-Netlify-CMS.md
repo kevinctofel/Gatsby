@@ -7,7 +7,7 @@ tags: ["javascript"]
 published: true
 
 ---
-![Netlify CMS image](..src/images/netlify-cms.jpg)
+![Netlify CMS image](../src/images/netlify-cms.jpg)
 
 ## Testing the Netlify CMS
 
