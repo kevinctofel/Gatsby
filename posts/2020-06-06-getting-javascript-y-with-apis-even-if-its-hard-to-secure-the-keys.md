@@ -20,13 +20,13 @@ Anyway, I decided to take this summer off from classes. The main reason? Last su
 
 I'm utterly fascinated now by web apps. Ironically, I thought I'd leverage my 10-course Software Engineering Certificate from the college into some type of mobile development. Now? I'm thinking not.
 
-![JavaScript Textbook](..src/images/javascript-textbook.jpg "JavaScript Textbook")
+![JavaScript Textbook](../src/images/javascript-textbook.jpg "JavaScript Textbook")
 
 So in the fall, I'll be taking my JavaScript course. And me being me, can't wait, so I've been tinkering on my own with simple JavaScript projects for the past few weeks.
 
 Here's one of them that lets you pick one of the three main crypto-currencies for a real-time price check. The script uses a web API to return the pricing information: Click [here to test the web app I have hosted on GitHub](https://java-script-seven.now.sh/).[^1]
 
-![JavaScript Crypto Pricing](..src/images/JavaScript-crypto-pricing.png)
+![JavaScript Crypto Pricing](../src/images/JavaScript-crypto-pricing.png)
 
 Again, it's a simple little project; I wanted to do something with an API since web apps are often powered by APIs.
 

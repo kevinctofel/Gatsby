@@ -12,7 +12,7 @@ Yeah, I'm one of *those people*: I get the book for class a month or two in adva
 
 This approach sometimes backfires a little, like it did for the upcoming semester. Instead of using the JavaScript book from the prior semester, which I bought weeks ago, the class is using a totally different book: JavaScript Absolute Beginner's Guide, 2nd edition.
 
-![JavaScript: Absolute Beginner's Guide, 2nd edition](..src/images/javascript-absolute-beginners-guide-second-edition.jpg)
+![JavaScript: Absolute Beginner's Guide, 2nd edition](../src/images/javascript-absolute-beginners-guide-second-edition.jpg)
 
 No problem: I already bought and worked my way through 6 of the 35 chapters this week.
 
@@ -24,7 +24,7 @@ I'm still researching some tools and approaches but I think [Unbounded.Cloud](ht
 
 Since Unbounded.Cloud uses AWS Lamba serverless functions there is a cost but it's minimal for a small site. In fact, I'm sure that if I do get this working, the free tier will suffice. After that, these are the current costs:
 
-![Unbounded Cloud pricing](..src/images/unbounded-cloud-pricing.jpg)
+![Unbounded Cloud pricing](../src/images/unbounded-cloud-pricing.jpg)
 
 My initial thought is that the JSON objects for comments won't be too complicated to begin with: Name, Date, comment text along with unique IDs for posts and comments. And the underlying data structure of comments is similar to a tree. 
 

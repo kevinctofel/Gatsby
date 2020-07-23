@@ -11,7 +11,7 @@ As I noted in my last post, I'm still a n00b developer. So that's my defense in 
 
 Essentially, as I understand it so far, Git sub-modules are linked external repos. So that allows me to add someone else's code repository in my own, but with a catch: Their repo is linked from my repo.
 
-![Git Submodules](..src/images/git-submodules.png)
+![Git Submodules](../src/images/git-submodules.png)
 
 ## So what makes them powerful?
 

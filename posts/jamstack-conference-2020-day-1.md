@@ -4,7 +4,7 @@ date: 2020-05-27T20:49:20-04:00
 published: true
 tags: ["javascript", "react", "nodejs"]
 ---
-![Jamstack Conference 2020](/src/images/Jamstac-conference-2020.jpg)
+![Jamstack Conference 2020](../src/images/Jamstac-conference-2020.jpg)
 
 Since I'm really only just beginning my delving into being a developer[^1], I haven't yet attended any developer conferences. That changed today. I caught most of the live presentations at [Jamstack Conf Virtual 2020](https://jamstackconf.com/) and watched recordings of the ones I missed. 
 
