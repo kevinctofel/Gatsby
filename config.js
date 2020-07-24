@@ -1,7 +1,7 @@
 "use strict"
 
 module.exports = {
-  url: "https://example.netlify.com",
+  url: "https://kctofel.netlify.com",
   title: "Kevin C. Tofel",
   tagline: "A modern Curious George",
   copyright: "© 2020 Kevin C. Tofel, All rights reserved",
