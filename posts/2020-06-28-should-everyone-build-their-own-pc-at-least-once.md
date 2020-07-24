@@ -4,7 +4,7 @@ title: Should everyone build their own PC at least once?
 date: 2020-06-28T19:58:25.069Z
 thumbnail: /images/pc-parts.jpg
 published: true
-tags: []
+tags: ["hardware"]
 ---
 I'm going to answer my own question with a caveat. I think just about everyone should build their own PC at least once in their lifetime. 
 
