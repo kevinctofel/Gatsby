@@ -33,4 +33,5 @@ Don't forget too: the site pages are only rendered once, not when a user request
 All in all, I'm happy with the end result, although I still have some UI tweaks and [things to add, such as comments](https://www.kctofel.com/2020-07-10-added-to-the-to-do-list-a-jamstack-blog-commenting-system/).
 
 Oh, one other geeky accomplishment during the process. When using the awesome theme (noted at the bottom of every page), I noticed in testing that the "next" and "previous" page navigation on a blog with more than two pages using the theme didn't work. I was able to fix it: My first bug fix in someone else's repo! :)
+
 ![Bug fix](../src/images/bug.jpg)
