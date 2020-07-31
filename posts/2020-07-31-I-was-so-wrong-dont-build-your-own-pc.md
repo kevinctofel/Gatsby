@@ -1,3 +1,10 @@
+---
+layout: blog
+title: I was so wrong: Don't build your own PC
+date: 2020-07-31T13:22:01.715Z
+published: true
+tags: ["hardware"]
+---
 About a month ago I suggested that [most people should build their own PC at least once](https://www.kctofel.com/2020-06-28-should-everyone-build-their-own-pc-at-least-once/). That was right after I built a decent gaming PC on a $900 budget. And so far it has served me well, not just for gaming but for coding too: I'm really liking the [Windows Subsystem for Linux and the way it works with Visual Code](https://www.kctofel.com/2020-07-18-interesting-developing-in-ubuntu-through-vs-code-running-in-wsl2-1/).
 
 ![](..src/images/gatsby-in-wsl2.jpg)
