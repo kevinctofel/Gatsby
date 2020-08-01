@@ -66,6 +66,18 @@ module.exports = {
               maxWidth: 800,
             },
           },
+          {
+            resolve: `gatsby-source-filesystem`,
+            options: {
+            path: `${__dirname}/src/pages`,
+          },
+          },
+          {
+           resolve: `gatsby-source-filesystem`,
+           options: {
+           path: `${__dirname}/src/images`,
+      },
+    },
         ],
       },
     },
