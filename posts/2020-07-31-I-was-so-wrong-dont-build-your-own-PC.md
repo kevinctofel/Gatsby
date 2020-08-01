@@ -11,7 +11,7 @@ About a month ago I suggested that [most people should build their own PC at lea
 
 And then about a week later, [I spent $68 to add a second storage drive](https://www.kctofel.com/2020-07-17-this-68-storage-upgrade-was-well-worth-it-even-if-it-was-twice-the-cost-of-an-ssd/). I didn't necessarily need the additional space just yet but I was enamoured by the massive speed boost in data throughput. So I dropped the money on it, making the $900 PC closer to a $1,000 PC.
 
-After that, I decided that I really liked the look of [this $130 open air sort of industrial PC case](https://www.thermaltake.com/core-p3.html) compared to the $50 bland box I used for the build. I liked enough that I ordered it and basically rebuilt the PC, which is now at least an $1,100 PC. 
+After that, I decided that I really liked the look of [this $130 open air sort of industrial PC case](https://www.thermaltake.com/core-p3.html) compared to the $50 bland box I used for the build. I liked it enough that I ordered it and basically rebuilt the PC, which is now at least an $1,100 PC. 
 
 ![Thermaltake P3](../src/images/thermaltake-p3.jpg)
 
