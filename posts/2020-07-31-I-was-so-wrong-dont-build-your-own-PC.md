@@ -8,13 +8,13 @@ tags: ["hardware"]
 ---
 About a month ago I suggested that [most people should build their own PC at least once](https://www.kctofel.com/2020-06-28-should-everyone-build-their-own-pc-at-least-once/). That was right after I built a decent gaming PC on a $900 budget. And so far it has served me well, not just for gaming but for coding too: I'm really liking the [Windows Subsystem for Linux and the way it works with Visual Code](https://www.kctofel.com/2020-07-18-interesting-developing-in-ubuntu-through-vs-code-running-in-wsl2-1/).
 
-![Creating a website in Visual Code using Linux in Windows 10](/src/images/gatsby-in-wsl2.jpg)
+![Creating a website in Visual Code using Linux in Windows 10](..src/images/gatsby-in-wsl2.jpg)
 
 And then about a week later, [I spent $68 to add a second storage drive](https://www.kctofel.com/2020-07-17-this-68-storage-upgrade-was-well-worth-it-even-if-it-was-twice-the-cost-of-an-ssd/). I didn't necessarily need the additional space just yet but I was enamoured by the massive speed boost in data throughput. So I dropped the money on it, making the $900 PC closer to a $1,000 PC.
 
 After that, I decided that I really liked the look of [this $130 open air sort of industrial PC case](https://www.thermaltake.com/core-p3.html) compared to the $50 bland box I used for the build. I liked enough that I ordered it and basically rebuilt the PC, which is now at least an $1,100 PC. 
 
-![Thermaltake P3](/src/images/thermaltake-p3.jpg)
+![Thermaltake P3](..src/images/thermaltake-p3.jpg)
 
 I love the room it provides for any hardware changes because aside from the side tempered glass, which is easily removed, it's open on the top, front and back.
 
@@ -22,7 +22,7 @@ This week, I got watching a bunch of YouTube videos discussing air-cooling vs. l
 
 You know what happened next.
 
-![Liquid coooled CPU](/src/images/liquid-cooled-aio.jpg)
+![Liquid coooled CPU](..src/images/liquid-cooled-aio.jpg)
 
 Yup, I ordered [a $120 all-in-one liquid CPU cooler](https://www.ekwb.com/shop/ek-aio-240-d-rgb) and installed it today. And it works great - CPU temps are way down, which helps performance. And I get nice customizable LEDs, which is bonus. 
 
