@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: I was so wrong Don't build your own PC
+title: I was so wrong. Don't build your own PC
 thumbnail: /images/simple-hybrid-site.png
 date: 2020-07-31T13:22:01.715Z
 published: true
