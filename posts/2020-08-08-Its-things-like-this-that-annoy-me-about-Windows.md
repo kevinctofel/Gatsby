@@ -15,7 +15,7 @@ Instead of blogging from my Chromebook (using Linux with Gatsby in VS Code), I h
 
 I went to fire up Ubuntu in a VM on Windows 10, as I've done time and time in the past, only to be greeted by this:
 
-![Sorry, no Ubuntu for you](..images/virtual-machine-platform-windows.jpg)
+![Sorry, no Ubuntu for you](./images/virtual-machine-platform-windows.jpg)
 
 Ok, that's odd. So no VM platform means no VM to run Ubuntu. Just to be sure I still has WSL installed, I checked and that seems fine.
 
