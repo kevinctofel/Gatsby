@@ -15,11 +15,11 @@ Instead of blogging from my Chromebook (using Linux with Gatsby in VS Code), I h
 
 I went to fire up Ubuntu in a VM on Windows 10, as I've done time and time in the past, only to be greeted by this:
 
-![Sorry, no Ubuntu for you](.src/images/virtual-machine-platform-windows.jpg)
+![Sorry, no Ubuntu for you](./src/images/virtual-machine-platform-windows.jpg)
 
 Ok, that's odd. So no VM platform means no VM to run Ubuntu. Just to be sure I still has WSL installed, I checked and that seems fine.
 
-![Yup, WSL2 is there](.src/images/wsl-check.jpg)
+![Yup, WSL2 is there](./src/images/wsl-check.jpg)
 
 So what's the troubleshooting recommended by Microsoft? Check and make sure the Virtual Machine Platform feature is enabled. Obviously it was in the past, since I've used this feature, but maybe something trigged the feature to a disabled state.
 
@@ -27,7 +27,7 @@ Ok, I'll take a trip to Control Panel -> Programs and Features -> Turn Windows f
 
 Oh wait. This is what I see:
 
-![The setting is enabled](.src/images/virtual-machine-platform.jpg)
+![The setting is enabled](./src/images/virtual-machine-platform.jpg)
 
 Yeah, it's already on. It's been on. And I leave it on. 
 
