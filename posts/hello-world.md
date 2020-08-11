@@ -26,6 +26,7 @@ That offers me a relatively permanent record of all the content. At the moment N
 
 * Remove/modify the default yellow SVG image for this theme
 * Tweak the theme so it looks how I want (I want some blurbs under each post on the home page, for example.)
+* ~~Update About page~~ *Completed, 8/10/2020*
 * Create/add favicon
 * Create templates for various types of content
 * Find and implement an open source commenting system
