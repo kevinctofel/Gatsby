@@ -38,6 +38,7 @@ const AboutPage = (props) => {
                         <ul>
                             <li>I used to run fast in high school. (2:01 for a half mile)</li>
                             <li>I've run 4 marathons and had a 983 day run streak.</li>
+                            <li>At age 47, I earned All American status for my age group and ran a 64.8 second 400m.</li>
                             <li>I read at least 2, sometimes 3 books a week.</li>
                             <li>I flunked out of college in 1989.</li>
                             <li>I promptly got a full time job at the college and got free classes, graduating with a degree in Economics in 1993 and then doing a year in grad school.</li>
