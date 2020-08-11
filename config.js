@@ -7,7 +7,7 @@ module.exports = {
   copyright: "© 2020 Kevin C. Tofel, All rights reserved",
   author: {
     name: "Kevin C. Tofel",
-    bio: "50 year old CS student",
+    bio: "51 year old CS student",
     contacts: {
       linkedin: "https://www.linkedin.com/in/kevinctofel/",
       github: "https://github.com/kevinctofel",
