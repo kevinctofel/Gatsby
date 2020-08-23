@@ -1,11 +1,11 @@
 backend:
   name: git-gateway
-  repo: kevinctofel/gatsby
+  repo: github.com/kevinctofel/gatsby
   branch: master # Branch to update (optional; defaults to master)
 
 media_folder: "/src/images"
 
-site_url: https://www.kctofel.com
+site_url: https://kctofel.com
 
 collections:
   - name: posts
