@@ -2,8 +2,9 @@ backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
 
-media_folder: /src/images
-public_folder: public
+media_folder: "/src/images"
+
+site_url: https://www.kctofel.com
 
 collections:
   - name: posts
