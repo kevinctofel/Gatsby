@@ -5,7 +5,7 @@ backend:
 
 media_folder: "/src/images"
 
-site_url: https://kctofel.com
+site_url: https://www.kctofel.com
 
 collections:
   - name: posts
