@@ -5,7 +5,7 @@ published: true
 date: 2020-08-29T16:42:49.062Z
 title: "I'm such a sucker: I bought an older GPU to replace a newer one"
 ---
-A few weeks back, I explained how my $900 gaming PC quickly became a $1,200 gaming PC. Would you believe we're up to $1,500 now?
+A few weeks back,[ I explained how my $900 gaming PC quickly became a $1,200 gaming PC](https://www.kctofel.com/2020-07-31-I-was-so-wrong-dont-build-your-own-PC/). Would you believe we're up to $1,500 now?
 
 Yeah, I'm a sucker.
 
