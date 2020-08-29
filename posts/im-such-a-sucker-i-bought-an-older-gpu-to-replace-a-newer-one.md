@@ -1,6 +1,6 @@
 ---
 tags:
-  - Hardware
+  - hardware
 published: true
 date: 2020-08-29T16:42:49.062Z
 title: "I'm such a sucker: I bought an older GPU to replace a newer one"
