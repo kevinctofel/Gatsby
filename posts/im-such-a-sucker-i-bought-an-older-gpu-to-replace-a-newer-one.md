@@ -13,7 +13,7 @@ Although at $900, the original system was perfectly capable of playing the games
 
 My latest silly decision falls into the latter category as I found an Nvidia GTX 1080 Founders Edition graphics card on eBay for $330.
 
-![](/src/images/nvidia-gtx-1080-founders-edition.jpg "Nvidia GTX 1080 Founders Edition")
+![](./src/images/nvidia-gtx-1080-founders-edition.jpg "Nvidia GTX 1080 Founders Edition")
 
 To be sure, this is a great deal on paper, even if the card was launched in 2016. You can still find new ones for sale running between $500 and $700 or more. 
 
@@ -21,7 +21,7 @@ Still, I probably shouldn't have pulled the trigger, given that once Nvidia laun
 
 Even so, I'm happy with the purchase and given my open air case, it took all of 5 minutes to swap out the GTX 1660 card I bought in May for $200 and replace it with the "new" older graphics card.
 
-![](/src/images/gtx-1080-installed.jpg "GTX 1080 in the Thermaltake P3")
+![](./src/images/gtx-1080-installed.jpg "GTX 1080 in the Thermaltake P3")
 
 After benchmarking between the two cards, I'm getting roughly 15 to 20 more frames per second on the GTX 1080. Essentially, I can either run my games with a faster frame rate on my 144fps monitor or I can keep the same frame rate (which isn't bad) but with more detailed, higher graphics settings.
 
