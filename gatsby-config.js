@@ -5,6 +5,7 @@ const siteConfig = require("./config")
 module.exports = {
   siteMetadata: {
     url: siteConfig.url,
+    siteURL: "https://www.kctofel.com",
     title: siteConfig.title,
     tagline: siteConfig.tagline,
     description: `Kevin C. Tofel`,
