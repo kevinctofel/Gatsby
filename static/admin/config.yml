@@ -2,6 +2,7 @@ backend:
   name: git-gateway
   repo: github.com/kevinctofel/gatsby
   branch: master # Branch to update (optional; defaults to master)
+  squash_merges: true
 
 media_folder: "./src/images"
 
