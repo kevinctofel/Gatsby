@@ -5,6 +5,8 @@ backend:
 
 media_folder: "/src/images"
 
+publish_mode: editorial_workflow
+
 site_url: https://www.kctofel.com
 
 collections:
