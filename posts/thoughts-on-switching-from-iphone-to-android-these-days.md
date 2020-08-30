@@ -44,3 +44,17 @@ Apple HomeKit support is iOS-only, but again, in my smart home, I went for cross
 I do miss using my Apple Watch 3 with LTE but I've replaced it with less functional Garmin Forerunner 245. There's no LTE, of course, so I can't leave my phone behind like I used to. I'll live. 
 
 ## What do I really like about Android these days?
+
+For starters, the new Home controls shown when holding down the power button of the phone are great. No need to go into the Google Home app or (when I need to be quiet) speak a voice command to adjust lights or some other device.
+
+The Google Messages app has been slowly maturing with RCS, or Rich Chat Services, to become more on par with iMessages.
+
+Every camera image (all of which are pretty stellar) are automatically uploaded to my Google One cloud storage account. I can do the same with iPhone but it's a manual process.
+
+Android phones continue to be better integrated with my daily computing device, which is one of several Chromebooks.
+
+## Final thoughts for now
+
+I'm not suggesting that iPhone owners drop their phone and switch to Android. I've always said people should use the best tool that meets their needs. And the iPhone is obviously great for a large number of people in that regard. I get it.
+
+But switching is easy, if you've set yourself up for as many cross-platform apps and services as possible. The two operating systems are more similar than different. And although there are some specific features or functions that iOS has, none of them have forced me to stick with an iPhone. Freedom is good!
