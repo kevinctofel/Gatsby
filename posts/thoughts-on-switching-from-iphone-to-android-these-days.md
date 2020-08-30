@@ -1,7 +1,7 @@
 ---
 tags:
   - hardware
-published: false
+published: true
 date: 2020-08-30T09:16:23.666Z
 title: Thoughts on switching from iPhone to Android these days
 ---
@@ -29,7 +29,7 @@ That means I've long used Google apps and services across devices so that I can 
 
 I was a Google Play Music user, then switched over to Apple Music, and finally landed on Spotify. 
 
-![]()
+![Garmin Forerunner 245 with Spotify](/src/images/garmin-forerunner-245-with-spotify-music.jpg)
 
 Not only does it work on all of my mobile devices, but also all of my smart speakers at home as well as my current wearable (more on that in a sec), which supports Spotify music downloads for offline playback.
 
