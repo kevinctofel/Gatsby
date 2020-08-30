@@ -29,7 +29,7 @@ That means I've long used Google apps and services across devices so that I can 
 
 I was a Google Play Music user, then switched over to Apple Music, and finally landed on Spotify. 
 
-![Garmin Forerunner 245 with Spotify](/src/images/garmin-forerunner-245-with-spotify-music.jpg)
+![Garmin Forerunner 245 with Spotify](../src/images/garmin-forerunner-245-with-spotify-music.jpg)
 
 Not only does it work on all of my mobile devices, but also all of my smart speakers at home as well as my current wearable (more on that in a sec), which supports Spotify music downloads for offline playback.
 
@@ -45,11 +45,15 @@ I do miss using my Apple Watch 3 with LTE but I've replaced it with less functio
 
 ## What do I really like about Android these days?
 
+![Home controls in Android 11](../src/images/Google-Home-in-Android-11.jpg)
+
 For starters, the new Home controls shown when holding down the power button of the phone are great. No need to go into the Google Home app or (when I need to be quiet) speak a voice command to adjust lights or some other device.
 
 The Google Messages app has been slowly maturing with RCS, or Rich Chat Services, to become more on par with iMessages.
 
 Every camera image (all of which are pretty stellar) are automatically uploaded to my Google One cloud storage account. I can do the same with iPhone but it's a manual process.
+
+![NIght Sight](../src/images/pixel-4-night-sight.jpg)
 
 Android phones continue to be better integrated with my daily computing device, which is one of several Chromebooks.
 
