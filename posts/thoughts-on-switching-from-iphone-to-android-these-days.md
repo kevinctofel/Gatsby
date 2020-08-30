@@ -1,7 +1,7 @@
 ---
 tags:
   - hardware
-published: true
+published: false
 date: 2020-08-30T09:16:23.666Z
 title: Thoughts on switching from iPhone to Android these days
 ---
