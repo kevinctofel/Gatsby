@@ -3,7 +3,7 @@ backend:
   repo: github.com/kevinctofel/gatsby
   branch: master # Branch to update (optional; defaults to master)
 
-media_folder: "/src/images"
+media_folder: "./src/images"
 
 publish_mode: editorial_workflow
 
