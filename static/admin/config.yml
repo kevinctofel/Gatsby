@@ -17,7 +17,7 @@ collections:
   - name: posts
     label: Blog Posts
     folder: posts
-    create: true
+    create: true 
     fields:
       - { name: tags, label: Tags, widget: list, required: false }
       - { name: published, label: Published, widget: boolean }
