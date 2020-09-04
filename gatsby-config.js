@@ -1,14 +1,11 @@
-'use strict'
-
 const siteConfig = require("./config")
 
 module.exports = {
   siteMetadata: {
     url: siteConfig.url,
-    siteUrl: "https://www.kctofel.com",
     title: siteConfig.title,
     tagline: siteConfig.tagline,
-    description: `Kevin C. Tofel`,
+    description: `A blog template for web developers that's ready to go out of the box. Feel free to modify it to your liking.`,
     author: siteConfig.author.name,
     contacts: {
       linkedin: siteConfig.author.contacts.linkedin,
@@ -23,19 +20,11 @@ module.exports = {
     `gatsby-plugin-react-helmet`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
-    'gatsby-plugin-feed',
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        // replace "UA-XXXXXXXXX-X" with your own Tracking ID
-        trackingId: "UA-167502044-1",
-      },
-    },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `images`,
-        path: path.join(__dirname, `src`, `images`),
+        path: `${__dirname}/posts`,
+        name: `blog`,
       },
     },
     {
@@ -68,18 +57,6 @@ module.exports = {
               maxWidth: 800,
             },
           },
-          {
-            resolve: `gatsby-source-filesystem`,
-            options: {
-            path: `${__dirname}/src/pages`,
-          },
-          },
-          {
-           resolve: `gatsby-source-filesystem`,
-           options: {
-           path: `${__dirname}/src/images`,
-      },
-    },
         ],
       },
     },
