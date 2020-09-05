@@ -2,7 +2,7 @@
 tags:
   - hardware
 published: true
-date: 2020-09-05T20:15:46.808Z
+date: 2020-09-05T20:52:10.351Z
 title: Why I bought a Surface Duo (or two)
 ---
 After noting [how easy it is to switch from iOS to Android](https://www.kctofel.com/thoughts-on-switching-from-iphone-to-android-these-days/), I decided to pre-order a Microsoft Surface Duo. Two Duos, actually, although only one is for me. 
@@ -71,4 +71,4 @@ And I've been burned by Microsoft before. This isn't my first rodeo. I had the S
 
 ![Microsoft Zune](/src/images/zune30.jpg "Microsoft Zune")
 
-Between that expectation,
+But Surface Duo is a little different. It's not running on Microsoft software, although it does run some Microsoft software. It's built on Android and Android isn't going away anytime soon. So I'll take my chances.
