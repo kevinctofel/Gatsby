@@ -59,10 +59,16 @@ That brings my effective price down to $599 for my Duo, plus tax on the full pri
 
 ## One more thing....
 
-I've been covering the mobile industry since 2004. I've written countless reviews and have either owned or been sent review units for at least 100 devices, if not more. This isn't my first rodeo.
+I've been covering the mobile industry since 2004. I've written countless reviews and have either owned or been sent review units for at least 100 devices, if not more. 
 
 So when people suggest to me that I'm wasting my money on a device, whatever it may be, my response is: *I've probably spent more money on bad gadgets that you have on good ones, so spare me the lecture.*
 
 And over the last 16 years of writing reviews, I've never presumed to tell people how to spend their money. I don't know what your requirements are so I don't do that. Instead, I explain how I use a device, where it works well and where it doesn't. What happens after that is up to you and your budget.
 
-I'm under no illusion that Microsoft will sell tens of millions of the Surface Duo, and frankly, I don't really care if it does or not. Ballmer's Microsoft might have believed that goal but Nadella's Microsoft is more realistic.
+I'm under no illusion that Microsoft will sell tens of millions of the Surface Duo, and frankly, I don't really care if it does or not. Ballmer's Microsoft might have believed that goal but Nadella's Microsoft is more realistic. The Surface Duo is a first gen device and I anticipate that Microsoft will take what it learns from this product launch and debut a better version a year or so from now. That doesn't mean this model won't meet my needs.
+
+And I've been burned by Microsoft before. This isn't my first rodeo. I had the Surface RT, Microsoft Band, the Microsoft Zune and the list goes on. 
+
+![Microsoft Zune](/src/images/zune30.jpg "Microsoft Zune")
+
+Between that expectation,
