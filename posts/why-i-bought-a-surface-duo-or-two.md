@@ -7,7 +7,7 @@ title: Why I bought a Surface Duo (or two)
 ---
 After noting [how easy it is to switch from iOS to Android](https://www.kctofel.com/thoughts-on-switching-from-iphone-to-android-these-days/), I decided to pre-order a Microsoft Surface Duo. Two Duos, actually, although only one is for me. 
 
-![Surface Duo](/src/images/surface-duo.jpg "Surface Duo")
+![Surface Duo](../src/images/surface-duo.jpg "Surface Duo")
 
 A friend from overseas reached out and asked me to purchase and ship him the 256 GB model, which costs $1,499 plus tax. He made the funds available to me in advance and once the device arrives, I'll ship it to him. Since I rely heavily on cloud storage and can easily make do with a 64 GB phone, I ordered the lower capacity model, which has 128 GB of non-expandable local storage.
 
@@ -31,17 +31,17 @@ Here's the thing: I care less about hardware specs these days and more about the
 
 And about the user experience, which is a key reason for my choice. While you can run 2 or even 3 apps on the Fold when the device is unfolded, none of them are full-sized:
 
-![3 apps on Galaxy Fold](/src/images/galaxy-fold-100788841-large.jpg "3 apps on Galaxy Fold")
+![3 apps on Galaxy Fold](../src/images/galaxy-fold-100788841-large.jpg "3 apps on Galaxy Fold")
 
 Because the Surface Duo has two independent displays that work together with optimized apps, I will have a full-sized multi-app experience:
 
-![Surface Duo 2 apps](/src/images/surface-duo-two-apps.jpg "Surface Duo 2 apps")
+![Surface Duo 2 apps](../src/images/surface-duo-two-apps.jpg "Surface Duo 2 apps")
 
 This is a key difference between the two devices and one that's important to me.
 
 I'm tired of scrolling on small apps in split screen mode or swiping between apps when trying to research something or share information between the two of them. WIth the Duo, I don't have to do that. Even better, with optimized apps, such as Microsoft's own Office software, the apps take advantage of the two displays by showing different but related information at the same time. Almost like.... wait for it..... Windows:
 
-![Outlook on Surface Duo](/src/images/microsoft-surface-duo-outlook-100854304-large.jpg "Outlook on Surface Duo")
+![Outlook on Surface Duo](../src/images/microsoft-surface-duo-outlook-100854304-large.jpg "Outlook on Surface Duo")
 
 I personally prefer this type of experience. If you don't, that's fine; the Duo isn't for you.
 
@@ -69,6 +69,6 @@ I'm under no illusion that Microsoft will sell tens of millions of the Surface D
 
 And I've been burned by Microsoft before. This isn't my first rodeo. I had the Surface RT, Microsoft Band, the Microsoft Zune and the list goes on. 
 
-![Microsoft Zune](/src/images/zune30.jpg "Microsoft Zune")
+![Microsoft Zune](../src/images/zune30.jpg "Microsoft Zune")
 
 But Surface Duo is a little different. It's not running on Microsoft software, although it does run some Microsoft software. It's built on Android and Android isn't going away anytime soon. So I'll take my chances.
