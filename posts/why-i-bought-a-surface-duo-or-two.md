@@ -56,3 +56,13 @@ However, Microsoft did offer $400 for my Pixel 4XL and frankly, that's too tall 
 Wait. ".....one device per Surface Duo order." I ordered two of them, one for my friend and one for me. Both orders are in my name, so he can't trade a device in for his Duo. So.... I cleaned another handset out of my gadget closet and I'm getting $400 back on the second Duo order.
 
 That brings my effective price down to $599 for my Duo, plus tax on the full price, making the decision a lot easier. Plus, as a minimalist who believes in the "one new item coming in to the house means at least one item leaving house" rule, this is a double win. One phone comes in and two go out.
+
+## One more thing....
+
+I've been covering the mobile industry since 2004. I've written countless reviews and have either owned or been sent review units for at least 100 devices, if not more. This isn't my first rodeo.
+
+So when people suggest to me that I'm wasting my money on a device, whatever it may be, my response is: *I've probably spent more money on bad gadgets that you have on good ones, so spare me the lecture.*
+
+And over the last 16 years of writing reviews, I've never presumed to tell people how to spend their money. I don't know what your requirements are so I don't do that. Instead, I explain how I use a device, where it works well and where it doesn't. What happens after that is up to you and your budget.
+
+I'm under no illusion that Microsoft will sell tens of millions of the Surface Duo, and frankly, I don't really care if it does or not. Ballmer's Microsoft might have believed that goal but Nadella's Microsoft is more realistic.
