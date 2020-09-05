@@ -27,4 +27,4 @@ Those comments, paraphrased here, can be summed up as:
 
 You get the idea.
 
-Here's the thing: I care less about hardware specs these days and more about the user experience.
+Here's the thing: I care less about hardware specs these days and more about the user experience. And guess what. The Pixel 4 I'm currently using has the exact same Qualcomm Snapdragon 855 and 6 GB of memory that the Duo has. Clearly, the Pixel 4 meets my performance needs, else I wouldn't be using it. So it's pretty safe to assume the Duo will meet my needs too.
