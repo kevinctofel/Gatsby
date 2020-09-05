@@ -28,3 +28,31 @@ Those comments, paraphrased here, can be summed up as:
 You get the idea.
 
 Here's the thing: I care less about hardware specs these days and more about the user experience. And guess what. The Pixel 4 I'm currently using has the exact same Qualcomm Snapdragon 855 and 6 GB of memory that the Duo has. Clearly, the Pixel 4 meets my performance needs, else I wouldn't be using it. So it's pretty safe to assume the Duo will meet my needs too.
+
+And about the user experience, which is a key reason for my choice. While you can run 2 or even 3 apps on the Fold when the device is unfolded, none of them are full-sized:
+
+![3 apps on Galaxy Fold](/src/images/galaxy-fold-100788841-large.jpg "3 apps on Galaxy Fold")
+
+Because the Surface Duo has two independent displays that work together with optimized apps, I will have a full-sized multi-app experience:
+
+![Surface Duo 2 apps](/src/images/surface-duo-two-apps.jpg "Surface Duo 2 apps")
+
+This is a key difference between the two devices and one that's important to me.
+
+I'm tired of scrolling on small apps in split screen mode or swiping between apps when trying to research something or share information between the two of them. WIth the Duo, I don't have to do that. Even better, with optimized apps, such as Microsoft's own Office software, the apps take advantage of the two displays by showing different but related information at the same time. Almost like.... wait for it..... Windows:
+
+![Outlook on Surface Duo](/src/images/microsoft-surface-duo-outlook-100854304-large.jpg "Outlook on Surface Duo")
+
+I personally prefer this type of experience. If you don't, that's fine; the Duo isn't for you.
+
+## How did buying a pair of Duos pay off?
+
+$1,399 is a lot of money for a phone. Heck, it's a lot of money, period. And if Microsoft didn't have a device trade-in deal, I may have passed on this pre-order even though I'm really intrigued by the device.
+
+Microsoft would have given me $700 for my iPhone 11 Pro, but I'm not about to get rid of that phone. As I've noted previously, I try to switch back and forth between devices and platforms so I can maintain some perspective of the industry.
+
+However, Microsoft did offer $400 for my Pixel 4XL and frankly, that's too tall of a device for me. So I'm trading that in and getting a $400 credit for the Duo. I thought I could trade in additional devices too but it turns out you can only trade in one device per Surface Duo order.
+
+Wait. ".....one device per Surface Duo order." I ordered two of them, one for my friend and one for me. Both orders are in my name, so he can't trade a device in for his Duo. So.... I cleaned another handset out of my gadget closet and I'm getting $400 back on the second Duo order.
+
+That brings my effective price down to $599 for my Duo, plus tax on the full price, making the decision a lot easier. Plus, as a minimalist who believes in the "one new item coming in to the house means at least one item leaving house" rule, this is a double win. One phone comes in and two go out.
