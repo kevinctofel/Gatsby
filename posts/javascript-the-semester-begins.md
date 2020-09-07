@@ -39,7 +39,7 @@ title: "JavaScript: The semester begins"
 
 Up until three months ago, I'd never written a single line of JavaScript. I still haven't written much outside of a sample web app that shows cryptocoin pricing based on the user's choice of coin.
 
-<h1>JavaScript demo to show current value of crypto</h1>
+<h2>JavaScript demo to show current value of crypto</h2>
   <form>
     <label form="coin">Choose a cryptocurrency:</label>
     <select id="coin" name="coins">
