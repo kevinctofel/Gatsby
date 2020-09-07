@@ -37,7 +37,9 @@ title: "JavaScript: The semester begins"
 
   </script>
 
-Up until three months ago, I'd never written a single line of JavaScript. I still haven't written much outside of a sample web app that shows cryptocoin pricing based on the user's choice of coin.
+Up until three months ago, I'd never written a single line of JavaScript. I still haven't written much outside of a sample web app that shows cryptocoin pricing based on the user's choice of coin. 
+
+Here's the demo app; note that if it doesn't work the first time, clicking the Reset button and trying again should fix it. I'll have to figure out why it doesn't work on the first load; remember, I'm a JS n00b!
 
 <div style="border:1px solid black"; width: 400px; margin: auto;>
 
