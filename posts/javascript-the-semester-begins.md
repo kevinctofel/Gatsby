@@ -2,7 +2,7 @@
 tags:
   - javascript
 published: true
-date: 2020-09-07T20:27:49.321Z
+date: 2020-09-07T21:24:59.287Z
 title: "JavaScript: The semester begins"
 ---
 <script>
