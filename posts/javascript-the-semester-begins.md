@@ -75,4 +75,6 @@ Instead, we were greeted with this list of readings and videos, along with a han
 
 ![JavaScript class week 1](/src/images/javascript-week-1.jpg "JavaScript class week 1")
 
-Test
+If you look at the first line in the readings, you'll see why [I ordered my book for class two months ago and read through the first third of it in advance](https://www.kctofel.com/2020-07-10-added-to-the-to-do-list-a-jamstack-blog-commenting-system/). 
+
+\#ProTip to students: Do this when you can.
