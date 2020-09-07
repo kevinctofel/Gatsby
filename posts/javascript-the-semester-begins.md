@@ -59,7 +59,9 @@ Here's the demo app, below.
   <p id="choice">Coin: </p>
   <p id="choicePrice">Price:</p>
 
-</div>
+</div></br>
+
+
 
 But as I've read more about JavaScript, and seen how it can power this blog, my long term focus has changed.
 
@@ -79,7 +81,7 @@ Instead, we were greeted with this list of readings and videos, along with a han
 
 If you look at the first line in the readings, you'll see why [I ordered my book for class two months ago and read through the first third of it in advance](https://www.kctofel.com/2020-07-10-added-to-the-to-do-list-a-jamstack-blog-commenting-system/). 
 
-\#ProTip to students: Do this when you can.
+**\#ProTip to students: Do this when you can.**
 
 I'm thrilled that we get the basics out of the way early on. You can see in the above screen shot, we tackle syntax, data types and flow. I was afraid we'd spend the first few weeks covering those topics rather than some of the meaty stuff in JavaScript. 
 
