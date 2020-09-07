@@ -39,6 +39,8 @@ title: "JavaScript: The semester begins"
 
 Up until three months ago, I'd never written a single line of JavaScript. I still haven't written much outside of a sample web app that shows cryptocoin pricing based on the user's choice of coin.
 
+<iframe>
+
 <h2>JavaScript demo to show current value of crypto</h2>
   <form>
     <label form="coin">Choose a cryptocurrency:</label>
@@ -50,8 +52,10 @@ Up until three months ago, I'd never written a single line of JavaScript. I stil
       <input type="reset" onclick="location.reload()">
     </select>
   </form>
-  <p id="choice"></p>
-  <p id="choicePrice"></p>
+  <p id="choice">Coin: </p>
+  <p id="choicePrice">Price:</p>
+
+</iframe>
 
 But as I've read more about JavaScript, and seen how it can power this blog, my long term focus has changed.
 
