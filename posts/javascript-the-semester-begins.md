@@ -39,9 +39,11 @@ title: "JavaScript: The semester begins"
 
 Up until three months ago, I'd never written a single line of JavaScript. I still haven't written much outside of a sample web app that shows cryptocoin pricing based on the user's choice of coin. 
 
-Here's the demo app; note that if it doesn't work the first time, clicking the Reset button and trying again should fix it. I'll have to figure out why it doesn't work on the first load; remember, I'm a JS n00b!
+Here's the demo app, below.
 
-<div style="border:1px solid black"; width: 400px; margin: auto;>
+*Note that if it doesn't work the first time, clicking the Reset button and trying again should fix it. I'll have to figure out why it doesn't work on the first load; remember, I'm a JS n00b!*
+
+<div style="border:1px solid black"; max-width: 400px; margin: auto;>
 
 <h3>JavaScript demo to show current value of crypto</h3>
   <form>
@@ -78,3 +80,19 @@ Instead, we were greeted with this list of readings and videos, along with a han
 If you look at the first line in the readings, you'll see why [I ordered my book for class two months ago and read through the first third of it in advance](https://www.kctofel.com/2020-07-10-added-to-the-to-do-list-a-jamstack-blog-commenting-system/). 
 
 \#ProTip to students: Do this when you can.
+
+I'm thrilled that we get the basics out of the way early on. You can see in the above screen shot, we tackle syntax, data types and flow. I was afraid we'd spend the first few weeks covering those topics rather than some of the meaty stuff in JavaScript. 
+
+Given the prerequisites for this class, the week 1 topics should basically be review of prior concepts along with any nuances of JavaScript syntax for them.
+
+Not much else to report yet but I was able to hit all of the readings and videos in roughly two hours over the weekend. The questions and problems won't take long either.
+
+## The COVID effect
+
+Incidentally, I feel for all of the students out there right now, given how the pandemic has up-ended everything.
+
+Instead of meeting on campus every Monday night from 6pm to 9:55pm, this is, like most others, now an online class. We do have to tune in and attend live class sessions over video on Monday nights, but only from 6pm to 8pm.
+
+For most students, that's probably looked upon as a good thing. I'm not thrilled though.
+
+One of the main reasons I take classes in person is to meet the next generation of developers, build their excitement, mentor them where I can and run informal in-person study groups. Online only makes that much more difficult.
