@@ -81,7 +81,7 @@ Even with most apps not optimized for the two screens, I'm finding huge time-sav
 
 First, there's far less swiping between one or more apps to get something done. For example, when I open up an app or web service on one screen, I can simply tap my Authy app on the other one for a two-factor authentication code. Or when I'm composing a social media post and want an image for it, I can have Google Photos on one screen to search and download with Twitter, Facebook, or whatever on the other screen.
 
-![](/src/images/surface-duo-google-photos-and-twitter.jpg)
+![](../src/images/surface-duo-google-photos-and-twitter.jpg)
 
 And even for apps not optimized, there are ways to take advantage of the dual displays. 
 
