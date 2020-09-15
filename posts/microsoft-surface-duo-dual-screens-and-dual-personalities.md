@@ -27,7 +27,37 @@ My Duo didn't arrive until the afternoon when the written and video reviews were
 
 And after my unit arrived, I set it up and started to see a few of the user interface and app issues noted in the reviews. Then I got a software update from Microsoft. It was the same software update that reviewers received roughly 6 days prior to publishing their reviews. And in general, it was like a different device. By different, I mean much better.
 
-Still some key issues have persisted, even after that software update. At times, trying to swipe up for the app drawer seemingly did nothing. Flipping the displays so that I could switch the sole camera from selfie mode to picture mode was wonky. 
+Still some key issues have persisted, even after that software update. 
+
+At times, trying to swipe up for the app drawer seemingly did nothing. Flipping the displays so that I could switch the sole camera from selfie mode to picture mode was wonky. Swiping up to close an app flung it to the other display. You get the point.
+
+However, after a few days of using the Duo and being more deliberate about how I navigate on it, I barely have any of these issues now.
+
+I've been thinking about the internals of the Duo when it comes to this because you have to understand, there's a lot going on here. With two displays, for example, you have two sets of accelerometers and gyroscopes, for example; one for each screen. This is needed so Duo knows if it's folded up, folded back on itself, in a "small laptop" mode, etc....
+
+Getting that sensor data isn't hard. Interpreting it is. And I'll admit that Microsoft could improve how that data is interpreted. But after thinking about this issue, I decided to be very particular with how I hold the device, meaning: The angles of the screens when I change modes. You typically don't have to do this with a traditional smartphone because with a single screen, there are only so many orientations. 
+
+By being more deliberate, say holding the Duo straight up and down when switching from one display to the other in "phone mode", the switch works perfectly, almost every single time.
+
+Continuing on that deliberateness, I'm not having issues switching between the camera modes either. That's something I saw time and again mentioned in reviews or shown in videos. In fact, I don't even have the Camera shortcut on either display because double-pressing the power button can open the Camera app. And guess what: When you do that in "phone mode", it always opens in selfie mode on the right display. Want to switch to regular image mode? Twist the Duo around to the back display and the Camera app appears in photo mode. I don't even have to double-tap the display to switch screens most of the time when I do this.
+
+Let's talk about the gesture navigation that got panned as well. I can totally understand why it did but again, by taking time to truly learn the proper places to start a swipe gesture, I'm only seeing a nav problem once, maybe twice per day. And generally that's because the Launcher app is unresponsive. Closing and re-opening the Duo has always fixed that issue for me but c'mon Microsoft: Let's make that Launcher more stable!
+
+Swiping up from the bottom bezel to open the app drawer seemed to be a problem for many reviewers. I'm not surprised because that's not the gesture. Instead, starting the upward swipe from the app dock or anywhere in the bottom third of the display brings the Launcher up for me. 
+
+Every. Single. Time.
+
+There is one user interface gesture that confounded me though. When swiping up to dismiss an app on one display, the app was flinging iteself to the other display. Or so I thought. 
+
+After taking time to look at my gesture pattern, I realized that it doesn't take much left or right movement when swiping up for Duo to think you want to move the software to the other display. Once I realized this, I made sure to swipe straight up and since then, no more apps are bouncing from one screen to the other. 
+
+I do think this gesture is a bit agressive when reading X-axis data from the touchscreen when swiping up; something Microsoft can and should refine.
+
+By now you're probably thinking, "You shouldn't have to think that hard as a user to make all of these navigation gestures work." 
+
+That's a fair point! Here's the good news: ***You don't have to use all of the gestures!***
+
+Instead, you can configure the Duo to use the older three button menu from earlier Android versions. That gives you a back button as well as an app switcher button if you want. I enabled it and didn't have any UI issues but later went back to the native gestures.
 
 ## It's not really a "phone"
 
