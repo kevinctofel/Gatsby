@@ -7,11 +7,11 @@ title: "Microsoft Surface Duo: Dual screens and dual personalities"
 ---
 [The Microsoft Surface Duo I ordered two weeks ago](https://www.kctofel.com/why-i-bought-a-surface-duo-or-two/) arrived late last week. I removed the SIM card from my Pixel 4 and popped it in the Duo this past weekend and have used the Duo as my primary "phone" since then. 
 
-Yes, I put the word "phone" in quotes for a specific reason, but I'll get to that in a bit.
+Yes, I put the word "phone" in quotes for a specific reason, but I'll get to that in a bit. And I'm not going to suggest if you should or shouldn't buy a Surface Duo. It is expensive and if you want a pocketable device with great image quality from the camera, wireless payment functionality, or 2020 flagship specs, the Duo isn't for you.
 
 First, I want to share my personal experiences with the device, particularly [in light of the Duo's generally negative reviews last week](https://www.techmeme.com/200910/h0945).
 
-![](/src/images/surface-duo-reviews.jpg)
+![](../src/images/surface-duo-reviews.jpg)
 
 *Full disclosure upfront:* 
 
@@ -41,17 +41,17 @@ By being more deliberate, say holding the Duo straight up and down when switchin
 
 Continuing on that deliberateness, I'm not having issues switching between the camera modes either. That's something I saw time and again mentioned in reviews or shown in videos. In fact, I don't even have the Camera shortcut on either display because double-pressing the power button can open the Camera app. And guess what: When you do that in "phone mode", it always opens in selfie mode on the right display. Want to switch to regular image mode? Twist the Duo around to the back display and the Camera app appears in photo mode. I don't even have to double-tap the display to switch screens most of the time when I do this.
 
-Let's talk about the gesture navigation that got panned as well. I can totally understand why it did but again, by taking time to truly learn the proper places to start a swipe gesture, I'm only seeing a nav problem once, maybe twice per day. And generally that's because the Launcher app is unresponsive. Closing and re-opening the Duo has always fixed that issue for me but c'mon Microsoft: Let's make that Launcher more stable!
+Let's talk about the gesture navigation that got panned as well. I can totally understand why it did but again, by taking time to truly learn the proper places to start a swipe gesture, I'm only seeing a nav problem once, maybe twice per day. And generally,that's because the Launcher app is unresponsive. Closing and re-opening the Duo has always fixed that issue for me but c'mon Microsoft: Let's make that Launcher more stable!
 
 Swiping up from the bottom bezel to open the app drawer seemed to be a problem for many reviewers. I'm not surprised because that's not the gesture. Instead, starting the upward swipe from the app dock or anywhere in the bottom third of the display brings the Launcher up for me. 
 
 **Every. Single. Time.**
 
-There is one user interface gesture that confounded me though. When swiping up to dismiss an app on one display, the app was flinging iteself to the other display. Or so I thought. 
+There is one user interface gesture that confounded me though. When swiping up to dismiss an app on one display, the app was flinging itself to the other display. Or so I thought. 
 
-After taking time to look at my gesture pattern, I realized that it doesn't take much left or right movement when swiping up for Duo to think you want to move the software to the other display. Once I realized this, I made sure to swipe straight up and since then, no more apps are bouncing from one screen to the other. 
+After taking the time to look at my gesture pattern, I realized that it doesn't take much left or right movement when swiping up for Duo to think you want to move the software to the other display. Once I realized this, I made sure to swipe straight up and since then, no more apps are bouncing from one screen to the other. 
 
-I do think this gesture is a bit agressive when reading X-axis data from the touchscreen when swiping up; something Microsoft can and should refine.
+I do think this gesture is a bit aggressive when reading X-axis data from the touchscreen when swiping up; something Microsoft can and should refine.
 
 By now you're probably thinking, "You shouldn't have to think that hard as a user to make all of these navigation gestures work." 
 
@@ -59,9 +59,17 @@ That's a fair point!
 
 Here's the good news: ***You don't have to use all of the gestures!***
 
-![](/src/images/surface-duo-gestures-vs-buttons.jpg)
+![](../src/images/surface-duo-gestures-vs-buttons.jpg)
 
 Instead, you can configure the Duo to use the older three-button menu from earlier Android versions. That gives you a back button as well as an app switcher button if you want. I enabled it and didn't have any UI issues but later went back to the native gestures.
+
+I should note that the Launcher typically uses the most battery out of all apps. That suggests to me that it really isn't deeply integrated with Android 10. My hope is that Android 11, with its improved support for dual display devices changes that. It could help with battery life and with navigation gestures as well as app behavior. 
+
+And there's a [specific hinge angle function in Android 11](https://developer.android.com/guide/topics/ui/foldables#hinge_angle) that I'm hoping the Duo can take advantage of to help define postures, or device orientation better:
+
+> Responding to the device posture is safer and more reliable, due to the many different window and device configurations currently in the market and coming in the future.
+
+I do not know if the Duo has the appropriate hinge sensor to use this function, however.
 
 ## Why Duo works well for me
 
