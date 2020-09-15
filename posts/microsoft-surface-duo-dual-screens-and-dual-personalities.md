@@ -19,7 +19,7 @@ I used Pocket PCs and PDAs (the precursor to smartphones) back in 2001. After th
 
 All that's to say that I have a different perspective than most when it comes to a new device form factor. And Surface Duo really is a new form factor.
 
-But please don't mistake my upcoming praises for the Duo as being an apologist for the woes that Microsoft needs to address. There are some. Overall though, I really like the Surface Duo because it works well for me as if it isn't just a dual-display device but it has dual personalities, depending on who's using it.
+But please don't mistake my upcoming praises for the Duo as being an apologist for the woes that Microsoft needs to address. There are some. Overall though, I really like the Surface Duo because it works well for me as a dual-display device seemingly with dual personalities, depending on who's using it.
 
 ## It's not as bad as you might have heard
 
