@@ -39,9 +39,13 @@ Getting that sensor data isn't hard. Interpreting it is. And I'll admit that Mic
 
 By being more deliberate, say holding the Duo straight up and down when switching from one display to the other in "phone mode", the switch works perfectly, almost every single time.
 
-Continuing on that deliberateness, I'm not having issues switching between the camera modes either. That's something I saw time and again mentioned in reviews or shown in videos. In fact, I don't even have the Camera shortcut on either display because double-pressing the power button can open the Camera app. And guess what: When you do that in "phone mode", it always opens in selfie mode on the right display. Want to switch to regular image mode? Twist the Duo around to the back display and the Camera app appears in photo mode. I don't even have to double-tap the display to switch screens most of the time when I do this.
+Continuing on that deliberateness, I'm not having issues switching between the camera modes either. That's something I saw time and again mentioned in reviews or shown in videos. 
 
-Let's talk about the gesture navigation that got panned as well. I can totally understand why it did but again, by taking time to truly learn the proper places to start a swipe gesture, I'm only seeing a nav problem once, maybe twice per day. And generally,that's because the Launcher app is unresponsive. Closing and re-opening the Duo has always fixed that issue for me but c'mon Microsoft: Let's make that Launcher more stable!
+In fact, I don't even have the Camera shortcut on either display because double-pressing the power button can open the Camera app. And guess what: When you do that in "phone mode", it always opens in selfie mode on the right display. Want to switch to regular image mode? Twist the Duo around to the back display and the Camera app appears in photo mode. I don't even have to double-tap the display to switch screens most of the time when I do this.
+
+The camera is far better for video conferencing and selfies than for everyday picture taking, by the way. It's actually decent in good lighting conditions for most pictures but image quickly deteriorates once lighting diminishes. This might be fixable with software but it's worth a mention.
+
+Let's talk about the gesture navigation that got panned as well. I can totally understand why it did but again, by taking time to truly learn the proper places to start a swipe gesture, I'm only seeing a nav problem once, maybe twice per day. And generally, that's because the Launcher app is unresponsive. Closing and re-opening the Duo has always fixed that issue for me but c'mon Microsoft: Let's make that Launcher more stable!
 
 Swiping up from the bottom bezel to open the app drawer seemed to be a problem for many reviewers. I'm not surprised because that's not the gesture. Instead, starting the upward swipe from the app dock or anywhere in the bottom third of the display brings the Launcher up for me. 
 
@@ -85,7 +89,9 @@ First, there's far less swiping between one or more apps to get something done. 
 
 And even for apps not optimized, there are ways to take advantage of the dual displays. 
 
-A perfect one that I'm using more and more is putting the Duo in laptop mode for watching a YouTube video on the "top" display and reading through the video comments on the "bottom" display.
+A perfect one that I'm using more and more is putting the Duo in laptop mode for watching a YouTube video on the "top" display and reading through the video comments on the "bottom" display. 
+
+(Personal note: People, please don't watch full-screen videos across both screens. That's just stupid because it *obviously* isn't a big screen when opened; it's two screens with a hinge. Would you buy two small TVs and put them side by side to watch one program? No, you'd buy a large TV.)
 
 These are just examples to illustrate the potential use cases. There are likely a ton more that I'll see over time.
 
@@ -93,7 +99,7 @@ Of course, Microsoft optimized its own apps. So even though I'm a heavy Gmail us
 
 To my surprise, I like the experience!
 
- Again, it's like a mini-tablet that shows contextual but different useful information on the two displays. Indeed, it reminds me of the optimization Apple made for iPads when using them in landscape mode: For Mail in iPadOS, you get a dual-pane view with a list of emails on the left and individual mail messages on the right. It works very well on the iPad and Office on Duo does too, for the same reasons.
+Again, it's like a mini-tablet that shows contextual but different useful information on the two displays. Indeed, it reminds me of the optimization Apple made for iPads when using them in landscape mode: For Mail in iPadOS, you get a dual-pane view with a list of emails on the left and individual mail messages on the right. It works very well on the iPad and Office on Duo does too, for the same reasons.
 
 Essentially, I do find that I'm getting more done in less time with the Duo than I can on a traditional smartphone.
 
@@ -113,6 +119,8 @@ I think people are calling the Duo a phone because that's the closest device com
 
 Frankly, I look at the Duo as a small folding tablet that just happens to have phone capabilities. Indeed, the size of it when unfolded is quite similar to the iPad Mini. 
 
+![](../src/images/ipad-mini-vs-surface-duo.jpg)
+
 And although Microsoft dubbed it the Duo over a year ago, I think the company should have said that "Duo" is just an internal product code name. A better, more descriptive name would have been Surface Booklet because that's really what it is: **A connected book-like tablet**. 
 
 That would have dovetailed nicely with the Surface Book laptop as well, but I digress. 
@@ -121,4 +129,6 @@ To me, the Surface Duo fits in the space between a traditional smartphone and a 
 
 **My point is this**: If you look at the Duo as a phone and compare it to other phones, you'll be disappointed. Those devices will offer one or more better hardware features, such as a camera, mobile payments, wireless charging, etc.... 
 
-But none of them compare in terms of my productivity to having two full-sized displays, each with a full app. Hopefully, software updates and a move to Android 11 address the few issues I'm experiencing. Even if they don't, I don't think I'll have to take advantage of the 60-day return policy for Surface Duo because it's a game-changer for me.
+But none of them compare in terms of my productivity to having two full-sized displays, each with a full app. 
+
+Hopefully, software updates and a move to Android 11 address the few issues I'm experiencing. Even if they don't, I don't think I'll have to take advantage of the 60-day return policy for Surface Duo because it's a game-changer for me.
