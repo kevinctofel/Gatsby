@@ -61,13 +61,29 @@ Here's the good news: ***You don't have to use all of the gestures!***
 
 ![](/src/images/surface-duo-gestures-vs-buttons.jpg)
 
-Instead, you can configure the Duo to use the older three button menu from earlier Android versions. That gives you a back button as well as an app switcher button if you want. I enabled it and didn't have any UI issues but later went back to the native gestures.
+Instead, you can configure the Duo to use the older three-button menu from earlier Android versions. That gives you a back button as well as an app switcher button if you want. I enabled it and didn't have any UI issues but later went back to the native gestures.
 
 ## Why Duo works well for me
 
-Obviously, the way I use a device and the reasons for using it are different from you. But it works well for me because of the two independent screens.
+Obviously, the way I use a device, and the reasons for using it are different from you. But it works well for me because of the two independent screens.
 
 Unlike a traditional smartphone or tablet that may support multiple apps on the display, Duo provides a full-sized multi-app experience. And each of those experiences is completely independent because of the two displays.
+
+Even with most apps not optimized for the two screens, I'm finding huge time-saving benefits.
+
+First, there's far less swiping between one or more apps to get something done. For example, when I open up an app or web service on one screen, I can simply tap my Authy app on the other one for a two-factor authentication code. Or when I'm composing a social media post and want an image for it, I can have Google Photos on one screen to search and download with Twitter, Facebook, or whatever on the other screen.
+
+And even for apps not optimized, there are ways to take advantage of the dual displays. A perfect one that I'm using more and more is putting the Duo in laptop mode for watching a YouTube video on the "top" display and reading through the video comments on the "bottom" display.
+
+These are just examples to illustrate the potential use cases. There are likely a ton more that I'll see over time.
+
+Of course, Microsoft optimized its own apps. So even though I'm a heavy Gmail user, I bit the bullet and set up my mail, calendar, and contacts in Office just to try them. 
+
+To my surprise, I like the experience. Again, it's like a mini-tablet that shows contextual but different useful information on the two displays. Indeed, it reminds me of the optimization Apple made for iPads when using them in landscape mode: For Mail in iPadOS, you get a dual-pane view with a list of emails on the left and individual mail messages on the right. It works very well on the iPad and Office on Duo does too, for the same reasons.
+
+Essentially, I do find that I'm getting more done in less time with the Duo than I can on a traditional smartphone.
+
+Oh and a quick note about "last year's specs" inside the Duo. That's true: It runs on a Snapdragon 855 with 6 GB of memory. As I noted when writing about my order placement, that's the same hardware inside the Pixel 4 I was using. I'm not seeing any performance issues or any real performance difference between Surface Duo and the Pixel 4, for what it's worth.
 
 ## It's not really a "phone"
 
