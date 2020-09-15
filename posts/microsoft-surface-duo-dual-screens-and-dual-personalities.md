@@ -19,7 +19,7 @@ I used Pocket PCs and PDAs (the precursor to smartphones) back in 2001. After th
 
 All that's to say that I have a different perspective than most when it comes to a new device form factor. And Surface Duo really is a new form factor.
 
-But please don't mistake my upcoming praises for the Duo as being an apologist for the woes that Microsoft needs to address. There are some. Overall though, I really like the Surface Duo because it works well for me.
+But please don't mistake my upcoming praises for the Duo as being an apologist for the woes that Microsoft needs to address. There are some. Overall though, I really like the Surface Duo because it works well for me as if it isn't just a dual-display device but it has dual personalities, depending on who's using it.
 
 ## It's not as bad as you might have heard
 
@@ -81,13 +81,19 @@ Even with most apps not optimized for the two screens, I'm finding huge time-sav
 
 First, there's far less swiping between one or more apps to get something done. For example, when I open up an app or web service on one screen, I can simply tap my Authy app on the other one for a two-factor authentication code. Or when I'm composing a social media post and want an image for it, I can have Google Photos on one screen to search and download with Twitter, Facebook, or whatever on the other screen.
 
-And even for apps not optimized, there are ways to take advantage of the dual displays. A perfect one that I'm using more and more is putting the Duo in laptop mode for watching a YouTube video on the "top" display and reading through the video comments on the "bottom" display.
+![](/src/images/surface-duo-google-photos-and-twitter.jpg)
+
+And even for apps not optimized, there are ways to take advantage of the dual displays. 
+
+A perfect one that I'm using more and more is putting the Duo in laptop mode for watching a YouTube video on the "top" display and reading through the video comments on the "bottom" display.
 
 These are just examples to illustrate the potential use cases. There are likely a ton more that I'll see over time.
 
 Of course, Microsoft optimized its own apps. So even though I'm a heavy Gmail user, I bit the bullet and set up my mail, calendar, and contacts in Office just to try them. 
 
-To my surprise, I like the experience. Again, it's like a mini-tablet that shows contextual but different useful information on the two displays. Indeed, it reminds me of the optimization Apple made for iPads when using them in landscape mode: For Mail in iPadOS, you get a dual-pane view with a list of emails on the left and individual mail messages on the right. It works very well on the iPad and Office on Duo does too, for the same reasons.
+To my surprise, I like the experience!
+
+ Again, it's like a mini-tablet that shows contextual but different useful information on the two displays. Indeed, it reminds me of the optimization Apple made for iPads when using them in landscape mode: For Mail in iPadOS, you get a dual-pane view with a list of emails on the left and individual mail messages on the right. It works very well on the iPad and Office on Duo does too, for the same reasons.
 
 Essentially, I do find that I'm getting more done in less time with the Duo than I can on a traditional smartphone.
 
@@ -107,8 +113,12 @@ I think people are calling the Duo a phone because that's the closest device com
 
 Frankly, I look at the Duo as a small folding tablet that just happens to have phone capabilities. Indeed, the size of it when unfolded is quite similar to the iPad Mini. 
 
-And although Microsoft dubbed it the Duo over a year ago, I think the company should have said that "Duo" is just an internal product code name. A better, more descriptive name would have been Surface Booklet because that's really what it is: **A connected book-like tablet**. That would have dovetailed nicely with the Surface Book laptop as well, but I digress. 
+And although Microsoft dubbed it the Duo over a year ago, I think the company should have said that "Duo" is just an internal product code name. A better, more descriptive name would have been Surface Booklet because that's really what it is: **A connected book-like tablet**. 
+
+That would have dovetailed nicely with the Surface Book laptop as well, but I digress. 
 
 To me, the Surface Duo fits in the space between a traditional smartphone and a traditional laptop in terms of usability and capability. That's the tablet space to me.
 
-My point is this: If you look at the Duo as a phone and compare it to other phones, you'll be disappointed. Those devices will offer one or more better hardware features, such as a camera, mobile payments, wireless charging, etc.... But none of them compare in terms of productivity to having two full-sized displays, each with a full app.
+**My point is this**: If you look at the Duo as a phone and compare it to other phones, you'll be disappointed. Those devices will offer one or more better hardware features, such as a camera, mobile payments, wireless charging, etc.... 
+
+But none of them compare in terms of my productivity to having two full-sized displays, each with a full app. Hopefully, software updates and a move to Android 11 address the few issues I'm experiencing. Even if they don't, I don't think I'll have to take advantage of the 60-day return policy for Surface Duo because it's a game-changer for me.
