@@ -53,8 +53,12 @@ small {
   .social-links{display: none;}
   .mobile-pages-main{display: block;}
   .mobile-bio-main{
-    display: flex;
+    
+    display: none;
     flex-direction: row;
     justify-content: space-between;
-  }
+  } 
+  /* removed this on 9/19/2020 to only show sticky mobile
+  bio image and name on tablet/desktop. Allows more content
+  to be seen on mobile without scrolling.*/
 }
