@@ -9,7 +9,7 @@ When I built my [$900 budget gaming PC back in June](https://www.kctofel.com/202
 
 Why the big $700 jump between then and now? I got lucky by finding the Nvidia RTX 3080 graphics card in stock at Best Buy last week. 
 
-![](/src/images/nvidia-rtx-3080-installed.jpg)
+![](./src/images/nvidia-rtx-3080-installed.jpg)
 
 Well, lucky is a relative term; I still had to pay $699 plus tax for it. Considering that inventory for this GPU is expected to be constrained into the new year, it was just pure chance that I found one in stock. 
 
