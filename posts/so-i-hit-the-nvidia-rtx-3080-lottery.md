@@ -9,7 +9,7 @@ When I built my [$900 budget gaming PC back in June](https://www.kctofel.com/202
 
 Why the big $700 jump between then and now? I got lucky by finding the Nvidia RTX 3080 graphics card in stock at Best Buy last week. 
 
-![](./src/images/nvidia-rtx-3080-installed.jpg)
+![](../src/images/nvidia-rtx-3080-installed.jpg)
 
 Well, lucky is a relative term; I still had to pay $699 plus tax for it. Considering that inventory for this GPU is expected to be constrained into the new year, it was just pure chance that I found one in stock. 
 
@@ -19,7 +19,7 @@ Considering that I don't play first person shooters or even the newest game titl
 
 Here's a marketing chart from Nvidia to illustrate the generational jump:
 
-![](/src/images/nvidia-3080-vs-2080-and-prior.jpg)
+![](../src/images/nvidia-3080-vs-2080-and-prior.jpg)
 
 Note I said "marketing chart" because real-world benchmark testing I've seen and read isn't always offering the promised gains. Still, the actual gains are impressive.
 
@@ -27,7 +27,7 @@ Take "Shadow of the Tomb Raider", one of my favorite games, for example. With my
 
 With the RTX 3080 at 1440p resolution and the highest possible graphics settings, I'm averaging over 110 frames per second on my 144Hz gaming monitor:
 
-![](/src/images/sotr-rtx-3080.jpg)
+![](../src/images/sotr-rtx-3080.jpg)
 
 Essentially, this card lets me play the game at a higher resolution, with more details and at a faster framerate. 
 
