@@ -34,7 +34,6 @@ const AboutPage = (props) => {
                         <h2 className="heading">About</h2>
                         <p><i>This is my blog. There are many like it, but this one is mine.</i></p>
                         <br />
-                        <img src="./src/images/Google-NYC.jpg" width="400px">
                         <h4>A brief history of (my) time</h4>
                         <ul>
                             <li>I used to run fast in high school. (2:01 for a half mile)</li>
