@@ -47,7 +47,8 @@ const AboutPage = (props) => {
                             <li>I've done every IT job imaginable, <a href="https://en.wikipedia.org/wiki/Electronic_Data_Systems">working</a> <a href="https://www.wikiwand.com/en/GMAC_ResCap">at</a> <a href="https://www.aetna.com/">three</a> Fortune 100 companies for 15 years.</li>
                             <li>My personal blog on mobile technology was bought in 2008.</li>
                             <li><a href="http://allthingsd.com/20120803/apples-eddy-cue-saw-market-for-7-inch-tablet-in-2011-said-should-do-one/">I inspired Apple to make the iPad mini.</a></li>
-                            <li>Now, at age 51, I take CS classes at the local community college where I mentor my peers.</li>
+                            <li>I worked with the Android and Chrome teams at Google from early 2016 to mid-2017.</li>
+                                <li>Now, at age 51, I take CS classes at the local community college where I mentor my peers.</li>
                             <li>I love to learn. I love helping others learn even more.</li>
                             <li>I have a <em>lot</em> more to learn.</li>
                         </ul>
