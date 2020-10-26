@@ -34,6 +34,7 @@ const AboutPage = (props) => {
                         <h2 className="heading">About</h2>
                         <p><i>This is my blog. There are many like it, but this one is mine.</i></p>
                         <br />
+                        <img src="./src/images/Google-NYC.jpg" width=30%>
                         <h4>A brief history of (my) time</h4>
                         <ul>
                             <li>I used to run fast in high school. (2:01 for a half mile)</li>
@@ -48,7 +49,7 @@ const AboutPage = (props) => {
                             <li>My personal blog on mobile technology was bought in 2008.</li>
                             <li><a href="http://allthingsd.com/20120803/apples-eddy-cue-saw-market-for-7-inch-tablet-in-2011-said-should-do-one/">I inspired Apple to make the iPad mini.</a></li>
                             <li>I worked with the Android and Chrome teams at Google from early 2016 to mid-2017.</li>
-                                <li>Now, at age 51, I take CS classes at the local community college where I mentor my peers.</li>
+                            <li>Now, at age 51, I take CS classes at the local community college where I mentor my peers.</li>
                             <li>I love to learn. I love helping others learn even more.</li>
                             <li>I have a <em>lot</em> more to learn.</li>
                         </ul>
