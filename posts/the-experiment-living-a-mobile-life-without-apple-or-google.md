@@ -2,7 +2,7 @@
 tags:
   - Hardware
 published: true
-date: 2020-11-21T01:27:37.996Z
+date: 2020-11-21T19:53:10.228Z
 title: "The experiment: Living a mobile life without Apple or Google (part 1)"
 ---
 I've been thinking quite a bit about data privacy and the mobile industry lately. They're two separate, but related, topics in my mind. 
