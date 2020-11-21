@@ -33,4 +33,4 @@ To a large extent, the Aurora Store is a front-end mirror of the Google Play Sto
 
 So if you absolutely must have a Play Store app, Aurora can typically get it on your phone. And with microG services, you'll still get the push notifications through Google's messaging system, even though you didn't get the app from Google. 
 
-Aurora is really the second choice for apps in a data privacy situation though. All of the custom ROMs I looked into support the F[\-Droid store,](https://f-droid.org/) which is filled with open-source apps for Android devices. There are some really good ones that either mimic or replicate the typical Google app. I've been living without Google Maps, for example, by using
+Aurora is really the second choice for apps in a data privacy situation though. All of the custom ROMs I looked into support the F[\-Droid store,](https://f-droid.org/) which is filled with open-source apps for Android devices. There are some really good ones that either mimic or replicate the typical Google app. I've been living without Google Maps, for example, by using [OsmAnd+ (OSM Automated Navigation Directions)](https://f-droid.org/en/packages/net.osmand.plus/).
