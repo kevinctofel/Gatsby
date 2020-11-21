@@ -23,7 +23,7 @@ For work reasons, I can't feasibly abandon some of the apps and services that I 
 
 ## Researching the few available options
 
-I started researching what operating system and app ecosystem might work for my experiment, with the goal being completely removed from Apple or Google. Or, at the very least, being as removed as possible so that my data wasn't going to either company nor to app developers.
+I started researching what operating system and app ecosystem might work for my experiment, with the goal being as removed as much as possible from Apple or Google. Or, at the very least, being as removed as possible so that nor more data that is absolutely necessary is going to either company or to app developers.
 
 After a few weeks of research, here's what I found and decided.
 
