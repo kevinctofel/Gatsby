@@ -3,7 +3,7 @@ tags:
   - Hardware
 published: true
 date: 2020-11-21T01:27:37.996Z
-title: "The experiment: Living a mobile life without Apple or Google"
+title: "The experiment: Living a mobile life without Apple or Google (part 1)"
 ---
 I've been thinking quite a bit about data privacy and the mobile industry lately. They're two separate, but related, topics in my mind. 
 
@@ -13,13 +13,25 @@ And from a privacy standpoint, both Apple and Google devices gather your data; t
 
 So I decided to try a little experiment over the past few weeks that would limit the amount of data I provide to third-parties on my mobile device. I have a Pixel 4, which of course runs Google Android. So I bought a secondary phone, a $399 OnePlus 7T, for the experiment. Since iPhones are locked down quite well, I decided to take an Android approach. For technical reasons, I ended up switching my approach and now use the OnePlus 7T with Google apps and services while experimenting with the Pixel 4, using custom software.
 
-I started researching what operating system and app ecosystem might work for my experiment, with the goal being completely removed from Apple or Google. Or, at the very least, being as removed as possible so that my data wasn't going to either company, nor to app developers.
+## A few baseline points to level set this post
+
+My intent with this post is not to bash Apple, Google, or any other big tech company. This is simply an experiment based on some thoughts I've had lately.
+
+I'm not suggesting or trying to convince you to follow in my tracks. If you want to for your own valid reasons, that's fine.
+
+For work reasons, I can't feasibly abandon some of the apps and services that I use. I run a Chromebook site, for example, so I need to maintain a Google account. This experiment is more geared towards my personal use of mobile devices, apps and services.
+
+## Researching the few available options
+
+I started researching what operating system and app ecosystem might work for my experiment, with the goal being completely removed from Apple or Google. Or, at the very least, being as removed as possible so that my data wasn't going to either company nor to app developers.
 
 After a few weeks of research, here's what I found and decided.
 
 There are several custom Android ROMs that are based on AOSP, or the Android Open Source Project, which don't include any Google apps or services. I've known about this for years, but the issue has always been one of security and the ability to find the apps that I need.
 
-Lineage OS is probably the most well known of these today and I did consider using it. However, it doesn't include support for something called [microG, which is a limited, open-source implementation of Google Play Services](https://microg.org/). I'll explain more about microG in a bit, but I saw another issue with Lineage OS: After installing it on a compatible phone, I couldn't relock the bootloader.
+![LineageOS](/src/images/lineageos.jpg "LineageOS")
+
+[Lineage OS](https://www.lineageos.org/) is probably the most well known of these today and I did consider using it. However, it doesn't include support for something called [microG, which is a limited, open-source implementation of Google Play Services](https://microg.org/). I'll explain more about microG in a bit, but I saw another issue with Lineage OS: After installing it on a compatible phone, I couldn't relock the bootloader.
 
 Let me explain why this is important. Every Android phone has what's called a bootloader. This is basically the first software that runs when you power up your phone or tablet. It verifies that the system software hasn't been tampered with. In order to install a custom version of Android, you have to first unlock the bootloader so you can modify the system software. Once that software is modified, you should relock the bootloader so that nobody can gain access to your phone data or modify the system software. As I found when I installed it, LineageOS doesn't allow for that, so it was too big a security risk for me to use.
 
@@ -27,7 +39,13 @@ I then turned to [GrapheneOS](https://grapheneos.org/), which is a hardened (rea
 
 If you just need the basics when it comes to mobile apps, or can rely on web apps, plus you want amazing data privacy and security, GrapheneOS is your best bet here. I ran GrapheneOS for a few days and appreciated the security but the phone felt too limited for me to use on a daily basis.
 
-Somewhere in between LineageOS and GrapheneOS is CalyxOS. And this is where I ended up. I've been running CalyxOS on the Pixel 4 -- with a relocked bootloader, I might add -- for about a week. It doesn't quite have the security chops of GrapheneOS but it brings the custom ROM benefits of LineageOS plus the ability to re-lock the bootloader. And it has microG installed. I guess it's time to explain microG, as well as other ways to get apps on a phone that has no access to Google Play.
+Somewhere in between LineageOS and GrapheneOS is CalyxOS. And this is where I ended up. 
+
+![Pixel 4 with CalyxOS](/src/images/pixel-4-calyxos.jpg "Pixel 4 with CalyxOS")
+
+I've been running CalyxOS on the Pixel 4 -- with a relocked bootloader, I might add -- for about a week. It doesn't quite have the security chops of GrapheneOS but it brings the custom ROM benefits of LineageOS plus the ability to re-lock the bootloader. And it has microG installed. I guess it's time to explain microG, as well as other ways to get apps on a phone that has no access to Google Play.
+
+## Getting apps on a non-Google Android phone
 
 microG essentially allows mobile apps that rely on Google services for push notifications or maps support. That may not sound too impressive but hold that thought because microG works with something called the Aurora Store. 
 
