@@ -19,7 +19,7 @@ My intent with this post is not to bash Apple, Google, or any other big tech com
 
 I'm not suggesting or trying to convince you to follow in my tracks. If you want to for your own valid reasons, that's fine.
 
-For work reasons, I can't feasibly abandon some of the apps and services that I use. I run a Chromebook site, for example, so I need to maintain a Google account. This experiment is more geared towards my personal use of mobile devices, apps and services.
+For work reasons, I can't feasibly abandon some of the apps and services that I use. I run a Chromebook site, for example, so I need to maintain a Google account. I also test many Amazon Echo, Apple HomeKit and Google Home devices for my contributions on [an IoT site ](https://www.staceyoniot.com)& [podcast](https://www.iotpodcast.com). This experiment is more geared towards my personal use of mobile devices, apps and services.
 
 ## Researching the few available options
 
@@ -39,7 +39,7 @@ I then turned to [GrapheneOS](https://grapheneos.org/), which is a hardened (rea
 
 If you just need the basics when it comes to mobile apps, or can rely on web apps, plus you want amazing data privacy and security, GrapheneOS is your best bet here. I ran GrapheneOS for a few days and appreciated the security but the phone felt too limited for me to use on a daily basis.
 
-Somewhere in between LineageOS and GrapheneOS is CalyxOS. And this is where I ended up. 
+Somewhere in between LineageOS and GrapheneOS is [CalyxOS](https://www.calyxos.org). And this is where I ended up. 
 
 ![Pixel 4 with CalyxOS](/src/images/pixel-4-calyxos.jpg "Pixel 4 with CalyxOS")
 
@@ -47,10 +47,24 @@ I've been running CalyxOS on the Pixel 4 -- with a relocked bootloader, I might 
 
 ## Getting apps on a non-Google Android phone
 
-microG essentially allows mobile apps that rely on Google services for push notifications or maps support. That may not sound too impressive but hold that thought because microG works with something called the Aurora Store. 
+microG essentially allows mobile apps that rely on Google services for push notifications or maps support. That may not sound too impressive but hold that thought because microG works with something called the [Aurora Store](https://auroraoss.com/app_info.php?app_id=1). 
 
-To a large extent, the Aurora Store is a front-end mirror of the Google Play Store. You may not find every app from the Play Store in Aurora, but I've found nearly everything I was looking for. When you install an app from Aurora, it's effectively coming from the Play Store. It's the same code. The difference is: Aurora signs in with an anonymous, or throwaway Google account to get the app on your phone. This means Google doesn't know who just downloaded it; there's no connection between you and the app because a Google account wasn't used to download it.
+![Aurora Store](/src/images/aurora-store.jpg "Aurora Store")
+
+To a large extent, the Aurora Store is a front-end mirror of the Google Play Store. You may not find every app from the Play Store in Aurora, but I've found nearly everything I was looking for. When you install an app from Aurora, it's effectively coming from the Play Store. It's the same code. 
+
+The difference is Aurora can sign in to the Play Store with an anonymous, or throwaway Google account to get the app on your phone. This means Google doesn't know who just downloaded it; there's no connection between you and the app because a Google account wasn't used to download it.
 
 So if you absolutely must have a Play Store app, Aurora can typically get it on your phone. And with microG services, you'll still get the push notifications through Google's messaging system, even though you didn't get the app from Google. 
 
-Aurora is really the second choice for apps in a data privacy situation though. All of the custom ROMs I looked into support the F[\-Droid store,](https://f-droid.org/) which is filled with open-source apps for Android devices. There are some really good ones that either mimic or replicate the typical Google app. I've been living without Google Maps, for example, by using [OsmAnd+ (OSM Automated Navigation Directions)](https://f-droid.org/en/packages/net.osmand.plus/). Between F-Droid and the occasional Android app through Aurora, I can do nearly everything I need to do on my Pixel 4 with CalyxOS like I can on the OnePlus 7T running Google Android. In cases where there isn't an app, or I'd rather not have it installed, I use the web version of the app or service.
+Aurora is really the second choice for apps in a data privacy situation though. All of the custom ROMs I looked into support the F[\-Droid store,](https://f-droid.org/) which is filled with open-source apps for Android devices. There are some really good ones that either mimic or replicate the typical Google app. I've been living without Google Maps, for example, by using [OsmAnd+ (OSM Automated Navigation Directions)](https://f-droid.org/en/packages/net.osmand.plus/). 
+
+Between F-Droid and the occasional Android app through Aurora, I can do nearly everything I need to do on my Pixel 4 with CalyxOS like I can on the OnePlus 7T running Google Android. In cases where there isn't an app, or I'd rather not have it installed, I use the web version of the app or service.
+
+## To be continued...
+
+Rather than make this a super-long post, I'm going to flip the switch here. I'm still writing the next parts but I'll be sharing my decision-making process in further detail on how I'm choosing which apps to use (or not use), as well as the inclusion of other changes I've made around email providers, cloud storage, social networking, messaging clients and VPN usage.
+
+I'll give one little tease though: I have a new personal email account at [kevin@kctofel.com](mailto://kevin@kctofel.com). 
+
+It is not an email account associated with a traditional big tech company. I'll explain more in my follow up, but in lieu of comments or questions (since I haven't yet built or adopted a privacy-centric commenting system here yet), don't hesitate to email me feedback or questions.
