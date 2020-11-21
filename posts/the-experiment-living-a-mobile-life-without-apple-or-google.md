@@ -29,7 +29,7 @@ After a few weeks of research, here's what I found and decided.
 
 There are several custom Android ROMs that are based on AOSP, or the Android Open Source Project, which don't include any Google apps or services. I've known about this for years, but the issue has always been one of security and the ability to find the apps that I need.
 
-![LineageOS](/src/images/lineageos.jpg "LineageOS")
+![LineageOS](./src/images/lineageos.jpg "LineageOS")
 
 [Lineage OS](https://www.lineageos.org/) is probably the most well known of these today and I did consider using it. However, it doesn't include support for something called [microG, which is a limited, open-source implementation of Google Play Services](https://microg.org/). I'll explain more about microG in a bit, but I saw another issue with Lineage OS: After installing it on a compatible phone, I couldn't relock the bootloader.
 
@@ -41,7 +41,7 @@ If you just need the basics when it comes to mobile apps, or can rely on web app
 
 Somewhere in between LineageOS and GrapheneOS is [CalyxOS](https://www.calyxos.org). And this is where I ended up. 
 
-![Pixel 4 with CalyxOS](/src/images/pixel-4-calyxos.jpg "Pixel 4 with CalyxOS")
+![Pixel 4 with CalyxOS](./src/images/pixel-4-calyxos.jpg "Pixel 4 with CalyxOS")
 
 I've been running CalyxOS on the Pixel 4 -- with a relocked bootloader, I might add -- for about a week. It doesn't quite have the security chops of GrapheneOS but it brings the custom ROM benefits of LineageOS plus the ability to re-lock the bootloader. And it has microG installed. I guess it's time to explain microG, as well as other ways to get apps on a phone that has no access to Google Play.
 
@@ -49,7 +49,7 @@ I've been running CalyxOS on the Pixel 4 -- with a relocked bootloader, I might 
 
 microG essentially allows mobile apps that rely on Google services for push notifications or maps support. That may not sound too impressive but hold that thought because microG works with something called the [Aurora Store](https://auroraoss.com/app_info.php?app_id=1). 
 
-![Aurora Store](/src/images/aurora-store.jpg "Aurora Store")
+![Aurora Store](./src/images/aurora-store.jpg "Aurora Store")
 
 To a large extent, the Aurora Store is a front-end mirror of the Google Play Store. You may not find every app from the Play Store in Aurora, but I've found nearly everything I was looking for. When you install an app from Aurora, it's effectively coming from the Play Store. It's the same code. 
 
