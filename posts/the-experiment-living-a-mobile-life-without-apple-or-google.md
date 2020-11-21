@@ -35,9 +35,9 @@ There are several custom Android ROMs that are based on AOSP, or the Android Ope
 
 Let me explain why this is important. Every Android phone has what's called a bootloader. This is basically the first software that runs when you power up your phone or tablet. It verifies that the system software hasn't been tampered with. In order to install a custom version of Android, you have to first unlock the bootloader so you can modify the system software. Once that software is modified, you should relock the bootloader so that nobody can gain access to your phone data or modify the system software. As I found when I installed it, LineageOS doesn't allow for that, so it was too big a security risk for me to use.
 
-I then turned to [GrapheneOS](https://grapheneos.org/), which is a hardened (read: more secure) version of AOSP. It has a development team of one: Danial Micay. And it delivers on its promise: A super secure AOSP phone with access to open-source mobile apps and a way to relock the bootloader.
+I then turned to [GrapheneOS](https://grapheneos.org/), which is a hardened (read: more secure) version of AOSP. It has a development team of one: Danial Micay. And it delivers on its promise: A super secure AOSP phone with access to open-source mobile apps and a way to relock the bootloader. 
 
-If you just need the basics when it comes to mobile apps, or can rely on web apps, plus you want amazing data privacy and security, GrapheneOS is your best bet here. I ran GrapheneOS for a few days and appreciated the security but the phone felt too limited for me to use on a daily basis.
+If you just need the basics when it comes to mobile apps, or can rely on web apps, plus you want amazing data privacy and security, GrapheneOS is your best bet here. I ran GrapheneOS for a few days and appreciated the security but the phone felt too limited for me to use on a daily basis. 
 
 Somewhere in between LineageOS and GrapheneOS is [CalyxOS](https://www.calyxos.org). And this is where I ended up. 
 
@@ -63,7 +63,7 @@ Between F-Droid and the occasional Android app through Aurora, I can do nearly e
 
 ## To be continued...
 
-Rather than make this a super-long post, I'm going to flip the switch here. I'm still writing the next parts but I'll be sharing my decision-making process in further detail on how I'm choosing which apps to use (or not use), as well as the inclusion of other changes I've made around email providers, cloud storage, social networking, messaging clients and VPN usage.
+Rather than make this a super-long post, I'm going to flip the switch here. I'm still writing the next parts but I'll be sharing my decision-making process in further detail on how I'm choosing which apps to use (or not use), as well as the inclusion of other changes I've made around email providers, cloud storage, browser, search provider, social networking, messaging clients and VPN usage.
 
 I'll give one little tease though: I have a new personal email account at [kevin@kctofel.com](mailto://kevin@kctofel.com). 
 
