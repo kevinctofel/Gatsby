@@ -1,6 +1,6 @@
 ---
 tags:
-  - Hardware
+  - android
 published: true
 date: 2020-11-21T19:53:10.228Z
 title: "The experiment: Living a mobile life without Apple or Google (part 1)"
