@@ -41,7 +41,7 @@ Here's an example of ProtonMail, which is my email client (and my email provider
 
 Now, consider an app like TikTok, which has quite a few from "big tech" names you'll recognize:
 
-![](..src/images/tiktok-trackers.jpg)
+![](../src/images/tiktok-trackers.jpg)
 
 Simply put, I won't install mobile apps on my personal phone that have an excess of trackers like this. I'm fine with certain minimal ones for performance or app-crashing data, but not my personal data.
 
