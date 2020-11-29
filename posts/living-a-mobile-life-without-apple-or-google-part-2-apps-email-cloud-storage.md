@@ -21,13 +21,17 @@ To keep my data private, I've installed a few apps directly from developers or f
 * OsmAnd+ Maps & GPS Navigation
 * Signal Private Messenger
 
-Bitwarden encrypts and replaces my use of browser stored passwords, which lets me reclaim those from "big tech". DuckDuckGo is a perfectly fine mobile browser that not only reports what trackers each site I visit is using, it can block most of them. 
+Bitwarden encrypts and replaces my use of browser stored passwords, which lets me reclaim those from "big tech". I was able to easily export my passwords from Google Chrome and import them successfully into Bitwarden. DuckDuckGo is a perfectly fine mobile browser that not only reports what trackers each site I visit is using, it can block most of them. 
+
+Here I'm using the browser to visit this site, where I do have Google Analytics tracking code. 
+
+![DuckDuckGo Privacy Brower tracking protection](/..src/images/duckduckgo-privacy-browser.jpg)
 
 That's very handy from a privacy standpoint. And there's an in-app button that closes all tabs and deletes all data from a browsing session. However, you can "fireproof" any website so that some data is saved: Account passwords, for example. I've done this with Twitter's site so I don't have to sign in each time.  
 
 NewPipe replaces YouTube, mainly because the backend is YouTube. I'm able to anonymously subscribe to my favorite content creators. OsmAnd+ for mapping and voice navigation has worked flawlessly. And Signal is my default messaging app on the Pixel 4. Voice, video, and messages between Signal users are encrypted while text messages from non-Signal folks aren't.
 
-Obviously I can use mobile website versions of some apps through DuckDuckGo. But that's not always ideal. If it was, we wouldn't have mobile apps with more functionality, push notifications, and the like. So I have installed a few apps from the Google Play Store anonymously through the Aurora Store; I explained this in the prior post.
+Obviously, I can use mobile website versions of some apps through DuckDuckGo. But that's not always ideal. If it was, we wouldn't have mobile apps with more functionality, push notifications, and the like. So I have installed a few apps from the Google Play Store anonymously through the Aurora Store; I explained this in the prior post.
 
 But... and this is key... I carefully evaluate what that app tracks or has access to before deciding to install it. And the Aurora Store has a nice integration with Exodus, which shows me that information before choosing to install.  
 
