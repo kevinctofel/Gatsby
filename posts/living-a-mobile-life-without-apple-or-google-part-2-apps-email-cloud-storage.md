@@ -25,7 +25,7 @@ Bitwarden encrypts and replaces my use of browser stored passwords, which lets m
 
 Here I'm using the browser to visit this site, where I do have Google Analytics tracking code. 
 
-![DuckDuckGo Privacy Brower tracking protection](/..src/images/duckduckgo-privacy-browser.jpg)
+![DuckDuckGo Privacy Brower tracking protection](..src/images/duckduckgo-privacy-browser.jpg)
 
 That's very handy from a privacy standpoint. And there's an in-app button that closes all tabs and deletes all data from a browsing session. However, you can "fireproof" any website so that some data is saved: Account passwords, for example. I've done this with Twitter's site so I don't have to sign in each time.  
 
@@ -37,11 +37,11 @@ But... and this is key... I carefully evaluate what that app tracks or has acces
 
 Here's an example of ProtonMail, which is my email client (and my email provider - more on that later). No trackers:
 
-![Proton Mail app has no trackers](/..src/images/protonmail-trackers.jpg)
+![Proton Mail app has no trackers](..src/images/protonmail-trackers.jpg)
 
 Now, consider an app like TikTok, which has quite a few from "big tech" names you'll recognize:
 
-![](/..src/images/tiktok-trackers.jpg)
+![](..src/images/tiktok-trackers.jpg)
 
 Simply put, I won't install mobile apps on my personal phone that have an excess of trackers like this. I'm fine with certain minimal ones for performance or app-crashing data, but not my personal data.
 
@@ -51,7 +51,7 @@ In fact, I highly recommend heading over to the [Exodus site if you use Android]
 
 For the data privacy experiment, I knew I needed a securely hosted email service. I don't feel like rolling my own, so after researching, I decided to use ProtonMail for a few reasons.
 
-![ProtonMail encryption explained](/..src/images/encrypted-protected-explanation.jpg)
+![ProtonMail encryption explained](..src/images/encrypted-protected-explanation.jpg)
 
 * [Open-source for most components](https://github.com/ProtonMail)
 * Based in Switzerland, which has some of the toughest privacy laws on the planet
@@ -68,7 +68,7 @@ Since I have the kctofel.com domain for this site, it was simple to use it for a
 
 The mail service doesn't have quite as many features as Gmail: I can't snooze a message for example. But otherwise, it's working fine on the web and on the mobile client.
 
-![ProtonMail Android client](/..src/images/protonmail-android.jpg)
+![ProtonMail Android client](..src/images/protonmail-android.jpg)
 
 As an aside, I also added a [paid ProtonVPN plan](https://protonvpn.com/), which got me a bundled discount. I now use the VPN service on my phone and my Chromebooks most of the time. I'm paying $10 a month for both the mail and VPN service.
 
@@ -80,7 +80,7 @@ Like I did with the last post once it got lengthy, I'll stop this one here. The 
 
 However, I recently discovered [NextCloud](https://nextcloud.com/), which is not just a cloud drive replacement but also offers online productivity and other apps. 
 
-![](/..src/images/nextcloud-self-hosted.jpg)
+![](..src/images/nextcloud-self-hosted.jpg)
 
 Rather than choose a NextCloud provider, I decided to go self-hosted and recently installed NextCloud server on a little Raspberry Pi 4. For testing, I have a 64 GB USB stick in the Pi where my NextCloud "cloud" data is stored. 
 
