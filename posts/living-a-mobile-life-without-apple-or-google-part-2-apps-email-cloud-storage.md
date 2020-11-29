@@ -3,8 +3,7 @@ tags:
   - android
 published: true
 date: 2020-11-29T15:14:22.945Z
-title: "Living a mobile life without Apple or Google, part 2: apps, email, cloud
-  storage"
+title: "Living a mobile life without Apple or Google, part 2: apps and email"
 ---
 Last week, I shared my current experiment of living without "big tech". I won't recap it in detail but [I'm essentially using a de-Googled phone](https://www.kctofel.com/the-experiment-living-a-mobile-life-without-apple-or-google/) as my daily driver. I explain why in the prior post, however, the main emphasis is around **data privacy**. And as I also mentioned last week, this isn't a push to get others to follow suit. You do you, I always say.
 
@@ -58,3 +57,9 @@ For the data privacy experiment, I knew I needed a securely hosted email service
 That last point is interesting because ProtonMail couldn't hand over any of my information even if it was subpoenaed by a government agency.
 
 > ProtonMail's zero access architecture means that your data is encrypted in a way that makes it inaccessible to us. Data is encrypted on the client side using an encryption key that we do not have access to. This means we don't have the technical ability to decrypt your messages, and as a result, we are unable to hand your data over to third parties. With ProtonMail, privacy isn't just a promise, it is mathematically ensured. For this reason, we are also unable to do data recovery. If you forget your password, we cannot recover your data.
+
+Since I have the kctofel.com domain for this site, it was simple to use it for a custom ProtonMail email address. As mentioned previously, until I can create or implement some open-source commenting system here to protect your data privacy, you can reach me at [kevin@kctofel.com](mailto://kevin@kctofel.com).
+
+ProtonMail offers a free account with limited storage, which I tested for a few days. I then opted to pay for a Premium plan. It's $48 yearly, supports the custom domain, offers multiple email accounts and 5 GB of storage. That's pretty meager but I've culled about 20 GB of old Gmail messages and then imported what was left into ProtonMail, which went flawlessly.
+
+While I'm still in the experimental phase, I still have my Gmail account active. All email there is being forwarded to my ProtonMail account. So Google still sees all of that. And it will unless I decide to move forward with this more privacy-centric approach.
