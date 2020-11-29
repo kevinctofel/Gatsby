@@ -25,7 +25,7 @@ Bitwarden encrypts and replaces my use of browser stored passwords, which lets m
 
 Here I'm using the browser to visit this site, where I do have Google Analytics tracking code. 
 
-![DuckDuckGo Privacy Brower tracking protection](../src/images/duckduckgo-privacy-browser.jpg)
+![DuckDuckGo Privacy Brower tracking protection](../src/images/DuckDuckGo-privacy-browser.jpg)
 
 That's very handy from a privacy standpoint. And there's an in-app button that closes all tabs and deletes all data from a browsing session. However, you can "fireproof" any website so that some data is saved: Account passwords, for example. I've done this with Twitter's site so I don't have to sign in each time.  
 
@@ -80,7 +80,7 @@ Like I did with the last post once it got lengthy, I'll stop this one here. The 
 
 However, I recently discovered [NextCloud](https://nextcloud.com/), which is not just a cloud drive replacement but also offers online productivity and other apps. 
 
-![](../src/images/nextcloud-self-hosted.jpg)
+![](../src/images/NextCloud-self-hosted.jpg)
 
 Rather than choose a NextCloud provider, I decided to go self-hosted and recently installed NextCloud server on a little Raspberry Pi 4. For testing, I have a 64 GB USB stick in the Pi where my NextCloud "cloud" data is stored. 
 
