@@ -60,6 +60,20 @@ That last point is interesting because ProtonMail couldn't hand over any of my i
 
 Since I have the kctofel.com domain for this site, it was simple to use it for a custom ProtonMail email address. As mentioned previously, until I can create or implement some open-source commenting system here to protect your data privacy, you can reach me at [kevin@kctofel.com](mailto://kevin@kctofel.com).
 
-ProtonMail offers a free account with limited storage, which I tested for a few days. I then opted to pay for a Premium plan. It's $48 yearly, supports the custom domain, offers multiple email accounts and 5 GB of storage. That's pretty meager but I've culled about 20 GB of old Gmail messages and then imported what was left into ProtonMail, which went flawlessly.
+ProtonMail offers a free account with limited storage, which I tested for a few days. I then opted to pay for a ProtonMail Plus plan. It's $48 yearly, supports the custom domain, offers multiple email accounts and 5 GB of storage. That's pretty meager but I've culled about 20 GB of old Gmail messages and then imported what was left into ProtonMail, which went flawlessly.
+
+As an aside, I also added a paid ProtonVPN plan, which got me a bundled discount. I now use the VPN service on my phone and my Chromebooks most of the time. 
 
 While I'm still in the experimental phase, I still have my Gmail account active. All email there is being forwarded to my ProtonMail account. So Google still sees all of that. And it will unless I decide to move forward with this more privacy-centric approach.
+
+## What about cloud storage?
+
+Like I did with the last post, I'll stop this one here. The next post will deal with online cloud storage because that too has to be part of this data privacy approach. I'm in a beta of ProtonDrive, which is a basic but functional secure and private option to replace Google Drive, Dropbox, OneDrive, etc... 
+
+However, I recently discovered NextCloud, which is not just a cloud drive replacement but also offers online productivity and other apps. 
+
+![](/..src/images/nextcloud-self-hosted.jpg)
+
+Rather than choose a NextCloud provider, I decided to go self-hosted and recently installed NextCloud server on a little Raspberry Pi 4. For testing, I have a 64 GB USB stick in the Pi where my NextCloud "cloud" data is stored. Obviously, my hardware is that cloud so no company has access to the data in it. I don't have to pay for storage unless I want to add more hardware to expand it.
+
+More to follow.....
