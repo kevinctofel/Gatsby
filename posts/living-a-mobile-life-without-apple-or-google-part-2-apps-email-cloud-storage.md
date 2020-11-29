@@ -7,7 +7,7 @@ title: "Living a mobile life without Apple or Google, part 2: apps and email"
 ---
 Last week, I shared my current experiment of living without "big tech". I won't recap it in detail but [I'm essentially using a de-Googled phone](https://www.kctofel.com/the-experiment-living-a-mobile-life-without-apple-or-google/) as my daily driver. I explain why in the prior post, however, the main emphasis is around **data privacy**. And as I also mentioned last week, this isn't a push to get others to follow suit. You do you, I always say.
 
-As a follow-up, today I'll cover some of the choices I've made around mobile applications, email and cloud storage. 
+As a follow-up, today I'll cover some of the choices I've made around mobile applications and email along with a preview of cloud storage strategies.
 
 ## I'm now super selective when installing apps
 
