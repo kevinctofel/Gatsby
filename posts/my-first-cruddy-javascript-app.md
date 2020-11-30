@@ -13,7 +13,7 @@ So I was thrilled that instead of writing small one-off functions, we finally go
 
 It's not impressive, nor very useful as compared to a production-level web app you might use on a daily basis but, hey: It works!
 
-![JavaScript shopping list](/src/images/shopping-list.jpg)
+![JavaScript shopping list](../src/images/shopping-list.jpg)
 
 [You can test it out here.](https://week10-assignment-part1.kevintofel.repl.co/)
 
