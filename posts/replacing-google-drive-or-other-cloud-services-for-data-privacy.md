@@ -36,6 +36,6 @@ But you do get a bunch of other things with the Google One plan, most imporantly
 
 And a bonus benefit to NextCloud is one I didn't expect: Automatic uploads of photos using the NextCloud mobile client. It works just like Google Photos in this way, shooting up photos to my personal cloud for later usage.
 
-![]..(/src/images/nextcloud-photo-viewing.jpg)
+![](../src/images/nextcloud-photo-viewing.jpg)
 
 Is NextCloud a \*perfect\* substitute for a paid (either by currency or providing personal data) cloud and productivity service? No, but it's pretty darn close. And I'm willing to give up some convenience to keep my personal data personal.
