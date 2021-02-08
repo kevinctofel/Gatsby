@@ -9,7 +9,7 @@ I've been remiss in following up the series of blog posts on data privacy. I bla
 
 Given the DOS-like look, I call it "Twitter 1982". ;)
 
-![](/src/images/twitter-1982.jpg)
+![](../src/images/twitter-1982.jpg)
 
 So that took up my attention for several weeks.
 
@@ -32,10 +32,10 @@ For example, I started out with a 64 GB USB flash drive just to get going. If I 
 
 But you do get a bunch of other things with the Google One plan, most imporantly email and productivity apps. Well, I tackled private email in a prior post, so that's taken care of. And in terms of productivity, NextCloud has scores of installable apps, including Collabora Online Office, which is pretty powerful. It runs off of the Pi so I can create, view or edit documents remotely through a browser.
 
-![](/src/images/nextcloud-photo-viewing.jpg)
+![](../src/images/nextcloud-photo-viewing.jpg)
 
 And a bonus benefit to NextCloud is one I didn't expect: Automatic uploads of photos using the NextCloud mobile client. It works just like Google Photos in this way, shooting up photos to my personal cloud for later usage.
 
-![](/src/images/nextcloud-photo-viewing.jpg)
+![]..(/src/images/nextcloud-photo-viewing.jpg)
 
 Is NextCloud a \*perfect\* substitute for a paid (either by currency or providing personal data) cloud and productivity service? No, but it's pretty darn close. And I'm willing to give up some convenience to keep my personal data personal.
