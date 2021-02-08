@@ -1,4 +1,6 @@
 ---
+tags:
+  - android
 published: true
 date: 2021-02-08T16:25:18.201Z
 title: Replacing Google Drive or other cloud services for data privacy
