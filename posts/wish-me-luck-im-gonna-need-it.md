@@ -35,6 +35,6 @@ The college boasts 10,799 registered students as of last semester, so it's not a
 
 As far as the challenge and effort offered by the program, there are ton of videos and reviews out there explaining it all. I've probably spent 50 hours researching those already. This particular one stands out to me:
 
-```html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AwdPsUDTO-0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-```
+
+Since I've only taken 8 CS courses and it's been 30 years since Calc I and II, this is a tough road to follow.
