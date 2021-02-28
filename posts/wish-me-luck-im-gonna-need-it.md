@@ -15,7 +15,9 @@ Once I felt I was back on track from a health perspective, my good friend and ex
 
 I've continued to contribute for Stacey and in April 2018 started my AboutChromebooks site. I was a little bored and really didn't want do work full-time. So I decided to try making some extra money blogging about a product I knew well. This April will be three years of AboutChromebooks.com and it makes enough to pay the bills.
 
-It also lets me have enough free time for self-learning. And in January 2018, I started taking undergraduate Computer Sciene classes at my local community college. I quickly learned that as a "commuter school", my classmates were missing out on much of the college experience I had decades earlier.
+It also lets me have enough free time for self-learning. And in January 2018, I started taking undergraduate Computer Sciene classes at my local community college. 
+
+I quickly learned that as a "commuter school", my classmates were missing out on much of the college experience I had decades earlier.
 
 So I started running study groups for every class I took, meeting anyone who wanted to join in at the campus library a few days a week. Aside from working through the latest CS concepts, I tried to offer a "real world" perspective as well as tips/tricks that could help the students. 
 
@@ -27,9 +29,13 @@ My CS profs are fully on-board with that, even speaking on my behalf to the coll
 
 So it's back to school I go. Again. Well *hopefully*. I've only applied to the Geogia Tech program and won't likely receive an admissions decision for a good month or two.
 
+![](/src/images/revolution.jpg)
+
 If you're not familiar with this program, it's pretty unique. And very challenging, apparently.
 
 The [Georgia Tech Online Masters in CS](https://omscs.gatech.edu) is done in partnership with Udacity and AT&T. As a result, it's relatively inexpenive. Like $800 a class, which isn't much more than my community college classes. There are a few specializations available and [a wide array of classes to choose from](https://omscs.gatech.edu/current-courses). 
+
+![](/src/images/new_omscs_numbers.jpg)
 
 The college boasts 10,799 registered students as of last semester, so it's not a small program. In fact, on the first day of registration, it's typical to get waitlisted for a class even though there were 1,000 spots for a course. 
 
