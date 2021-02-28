@@ -37,4 +37,8 @@ As far as the challenge and effort offered by the program, there are ton of vide
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AwdPsUDTO-0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Since I've only taken 8 CS courses and it's been 30 years since Calc I and II, this is a tough road to follow.
+Since I've only taken 8 CS courses and it's been 30 years since Calc I and II, this is a tough road to follow. 
+
+However, I'm no stranger to hard work and I'm a good independent learner in a structured environment so there's a chance of success. Add in a deep passion for the subject matter and desire to get that Masters so I can teach? My odds of success improve a little.
+
+Regardless, it's going to take some luck to go along with the hard work, plus a little extra luck to get an acceptance for the fall semester. If you have some, send it my way. Every little bit helps!
