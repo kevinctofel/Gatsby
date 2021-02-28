@@ -1,4 +1,6 @@
 ---
+tags:
+  - programming
 published: true
 date: 2021-02-28T23:11:11.541Z
 title: Wish me luck (I'm gonna need it)
