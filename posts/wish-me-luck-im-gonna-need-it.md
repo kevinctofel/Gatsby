@@ -11,11 +11,11 @@ See, I always wanted to teach college classes. Even before getting my B.A. in Ec
 
 I got the teaching bug again not long after leaving my full-time position at Google in 2017. I left there for health reasons, so I didn't immediately do anything after resigning. Well, other than focus on my health and watch a lot of Netflix, that is.
 
-Once I felt I was back on track from a health perspective, my good friend and ex-Gigaom colleague, Stacey Higginbotham, offered me a chance to contribue to her StaceyOnIoT site. I was already doing the IoT Podcast with her for a few years prior, so a little writing for the site was an ideal fit. I'm an independent contractor for Stacey and she graciously enabled me to earn a little money while I was refocusing my life.
+Once I felt I was back on track from a health perspective, my good friend and ex-Gigaom colleague, Stacey Higginbotham, offered me a chance to contribute to her [StaceyOnIoT](https://www.staceyoniot.com) site. I was already doing the [IoT Podcast](https://www.iotpodcast.com) with her for a few years prior, so a little writing for the site was an ideal fit. I'm an independent contractor for Stacey and she graciously enabled me to earn a little money while I was refocusing my life.
 
-I've continued to contribute for Stacey and in April 2018 started my AboutChromebooks site. I was a little bored and really didn't want do work full-time. So I decided to try making some extra money blogging about a product I knew well. This April will be three years of AboutChromebooks.com and it makes enough to pay the bills.
+I've continued to contribute for Stacey and in April 2018 started my [AboutChromebooks](https://www.aboutchromebooks.com) site. I was a little bored and really didn't want do work full-time. So I decided to try making some extra money blogging about a product I knew well. This April will be three years of AboutChromebooks.com and it makes enough to pay the bills.
 
-It also lets me have enough free time for self-learning. And in January 2018, I started taking undergraduate Computer Sciene classes at my local community college. 
+It also lets me have enough free time for self-learning. And in January 2018, I started taking undergraduate Computer Science classes at my local community college. 
 
 I quickly learned that as a "commuter school", my classmates were missing out on much of the college experience I had decades earlier.
 
