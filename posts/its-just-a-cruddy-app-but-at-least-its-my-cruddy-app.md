@@ -12,7 +12,7 @@ While waiting, I've been heads down in my Advanced JavaScript class. The focus h
 
 With a few weeks to go in the semester, we have two of the three pieces in place. 
 
-![](/src/images/original-react-app.jpg)
+![](../src/images/original-react-app.jpg)
 
 Last month, I had put together React app that started with all of the UI, logic, and data in it. It's just a standard "to do" app to keep track of basic tasks. I think "to do" apps are like the "Hello World" of React; everyone learning React seems to do one, or something similar.
 
@@ -24,7 +24,7 @@ As of last week, I pulled the logic and data out of the client and put it on a N
 
 In a sense, you could say we built *very* rudimentary APIs for our application on the server. Our client app calls the server for all of its functionality by making an http fetch request. I have routes, or endpoints, on the server to handle each function: add, edit, or delete a task. There's a "mark completed" action as well. 
 
-![](/src/images/react-and-node-todos.jpg)
+![](../src/images/react-and-node-todos.jpg)
 
 With the data all on the server, it's a little more persistent. When the data was in the client, each browser refresh would reset the tasks, for example. Now, the server acts as the "book of record" for the task data; it only goes back to the default tasks if the server is restarted.
 
@@ -44,7 +44,7 @@ I don't use Facebook -- I basically [stopped in November of last year on a data 
 
 Indeed, using the [React Developer Tools Chrome Extension](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en), you can see information from the Netflix content. Here's an array (or list) of the actors in The Witcher, for example, that the app view has access to.
 
-![](/src/images/netflix-react.jpg)
+![](../src/images/netflix-react.jpg)
 
 Again, I'm not suggesting that React should be your library of choice for building apps. But it's a solid enough choice that some big names are using it. 
 
@@ -54,7 +54,7 @@ And sure, my "to do" app is just a typical CRUD app. More importantly, though, I
 
 Oh, while we don't get "style" points in class for our apps, I've been getting my weekly assignments done well in advance. So I've had extra time to tweak the look of my app. 
 
-![](/src/images/todos.jpg)
+![](../src/images/todos.jpg)
 
 I'm using [Material UI](https://material-ui.com/) for my font, input fields and, button components. A few lines of code and some slightly different elements is all it took.
 
