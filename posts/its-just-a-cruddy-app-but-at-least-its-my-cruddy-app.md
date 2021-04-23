@@ -9,21 +9,27 @@ The last time I blogged here was when I applied to the online Georgia Tech Maste
 
 While waiting, I've been heads down in my Advanced JavaScript class. The focus has been to take our basic JS skills from the previous semester and build a full-stack application using React, Node.js, and a database.
 
-With a few weeks to go in the semester, we have two of the three pieces in place. Last month, I had a React app that started with all of the UI, logic, and data in it. It's just a standard "to do" app to keep track of basic tasks. I think "to do" apps are like the "Hello World" of React; everyone learning React seems to do one, or something similar.
+With a few weeks to go in the semester, we have two of the three pieces in place. 
 
-And yes, it's a simple CRUD app. If you're not familiar with the term it stands for four main features found in nearly every (if not every) app: Create, Read, Update and Delete. Most everything we do on apps uses these basic functions.
+Last month, I had a React app that started with all of the UI, logic, and data in it. It's just a standard "to do" app to keep track of basic tasks. I think "to do" apps are like the "Hello World" of React; everyone learning React seems to do one, or something similar.
+
+And yes, it's a simple CRUD app. If you're not familiar with the term it stands for four main features found in nearly every (if not every) app: Create, Read, Update and Delete. Almost everything we do on apps uses these basic functions; and a lot more behind the scenes, of course.
 
 As of last week, I pulled the logic and data out of the client and put it on a Node.js server. This part was actually more interesting to me. 
 
-In a sense, you could say we built *very* rudimentary APIs for our application on the server. Our client app calls to the server for all of its functionality by making an http fetch request. I have routes, or endpoints, on the server to handle each function: add, edit, or delete a task. There's a "mark completed" action as well. With the data all on the server, it's a little more persistent. When the data was in the client, each browser refresh would reset the tasks, for example. Now, the server acts as the "book of record" for the task data; it only goes back to the default tasks if the server is restarted.
+In a sense, you could say we built *very* rudimentary APIs for our application on the server. Our client app calls to the server for all of its functionality by making an http fetch request. I have routes, or endpoints, on the server to handle each function: add, edit, or delete a task. There's a "mark completed" action as well. 
 
-Of course, for even better persistence, we'll be moving the data from the server onto a database. We'll be doing that next week using PostgreSQL. We could do this on local machines, which is what I'm doing now: I have both an Express web server and a Node.js server running on different ports of my Chromebook. But I'd rather use some cloud database, so ElephantSQL is an option suggested by the professor. It's free for my limited usage and it should stay running all the time, which I'd prefer.
+With the data all on the server, it's a little more persistent. When the data was in the client, each browser refresh would reset the tasks, for example. Now, the server acts as the "book of record" for the task data; it only goes back to the default tasks if the server is restarted.
+
+Of course, for even better persistence, we'll be moving the data from the server onto a database. We'll be doing that next week using PostgreSQL. 
+
+We could do this on local machines, which is what I'm doing now: I have both an Express web server and a Node.js server running on different ports of my Chromebook. But I'd rather use some cloud database, so [ElephantSQL](https://www.elephantsql.com/) is an option suggested by the professor. It's free for my limited usage and it should stay running all the time, which I'd prefer.
 
 I have to say, I'm really becoming smitten with the whole React / Node.js / database stack. I'm not suggesting it's the best or that there aren't other options. But it's pretty approachable and reasonably capable for web app development. 
 
 I had heard of React and Node.js before taking the class, of course. Until now I only had a high-level view of them. And I had no idea what web apps I use on a daily basis are built on React for the front end; I don't know what the backends are so I'm excluding Node.js here, of course.
 
-I don't use Facebook -- I basically stopped in November of last year on a data privacy kick -- but of course, Facebook is a React app. React was originally born out of Facebook. Here are a few other apps I use that are built on React though:
+I don't use Facebook -- I basically [stopped in November of last year on a data privacy kick](https://www.kctofel.com/the-experiment-living-a-mobile-life-without-apple-or-google/) -- but of course, Facebook is a React app. React was originally born out of Facebook. Here are a few other apps I use that are built on React though:
 
 * Discord
 * Reddit
