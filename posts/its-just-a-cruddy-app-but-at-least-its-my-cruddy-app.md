@@ -1,6 +1,7 @@
 ---
 tags:
   - javascript
+  - react
 published: true
 date: 2021-04-23T17:21:39.186Z
 title: It's just a CRUDdy app, but at least it's my CRUDdy app
