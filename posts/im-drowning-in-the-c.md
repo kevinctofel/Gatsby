@@ -3,7 +3,7 @@ tags:
   - CS
   - ""
 published: true
-date: 2021-07-31T14:35:28.082Z
+date: 2021-07-31T16:45:43.604Z
 title: Why I'm drowning in the C
 ---
 What a slacker. I just realized I haven't posted here since April. And so much has happened since then! Time for a recap from then to the present because I'm literally drowning in C, as in the programming language.
