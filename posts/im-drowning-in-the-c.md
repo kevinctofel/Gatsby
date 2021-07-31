@@ -38,7 +38,7 @@ So I'm slogging through C as quickly as I can before classes start, although my 
 
 And to that end, switching from one language to another isn't as challenging as you might think, provided you have solid fundamentals of the concepts. It's even easier if the language you know is similar to the one you have to learn, such as the case from my Java experience easily translated to C programming.
 
-![](../src/images/georgia-tech-shirt.jpg)<img src="../src/images/georgia-tech-shirt.jpg" width="300" height="400" />
+![](../src/images/georgia-tech-shirt.jpg)<img src="../src/images/georgia-tech-shirt.jpg" width="300" height="400">
 
 Before I get back to my immersion in C programming with more coursework, I've should note I've also been working on some small side projects. 
 
