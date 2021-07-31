@@ -26,3 +26,15 @@ Here's an example of my notes along with a basic C coding assignment from the on
 ![Roam Research](/src/images/roam-research.png)
 
 What's great about this whole process is that it's teaching this n00b coder that computer science is essentially computer science, regardless of programmning language or syntax.
+
+For example, having learned data structures in Java, I basically already know data structures in C. Sure there are some slight differences but an array is an array and a stack is a stack. It doesn't matter what language you implement the structure, the concept is the same even if the syntax or memory managment is different.
+
+In the same regard, loops are still loops, variables are variable, and... well, you get the idea.
+
+So I'm slogging through C as quickly as I can before classes start, although my pace is faster than I expected. The takeway here from one n00b to another: focus intensely on programming concepts because most of them apply to whatever language you use or learn. 
+
+And to that end, switching from one language to another isn't as challenging as you might think, provided you have solid fundamentals of the concepts. It's even easier if the language you know is similar to the one you have to learn, such as the case from my Java experience easily translated to C programming.
+
+![Newest Georgia Tech Masters student in CS](/src/images/georgia-tech-shirt.jpg)
+
+Before I get back to my immersion of C programming, I've also been working on some small side projects. These are personal apps so I won't share the details for now. Suffice it to say, I'm stretching myself with a MERN application, i.e.: MongoDB, Express, React, and Node. It's early yet but I do have my Node server succefully GETing data from my MongoDB in the cloud. :)
