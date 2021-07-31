@@ -10,7 +10,7 @@ What a slacker. I just realized I haven't posted here since April. And so much h
 
 Why? Because somehow I was accepted to the fall cohort of Georgia Tech's online Masters in Computer Science. I turn 52 next week and two weeks after that, I start my first semester. Go figure!
 
-![Georgia Tech acceptance](/src/images/gatech-acceptance.png)
+![Georgia Tech acceptance](../src/images/gatech-acceptance.png)
 
 That letter arrived in early May, so I've been getting all of my supporting documentation in to the school, doing the online orientation activities, and getting my GT accounts set up. Normal stuff, really.
 
@@ -26,22 +26,22 @@ I'm also using the time to figure out how to best organize my class notes once t
 
 Here's an example of my notes along with a basic C coding assignment from the online class. Roam supports image imports as well as code blocks and many other features that I really like.
 
-![Roam Research](/src/images/roam-research.png)
+![Roam Research](../src/images/roam-research.png)
 
-What's great about this whole process is that it's teaching this n00b coder that computer science is essentially computer science, regardless of programmning language or syntax.
+What's great about this whole process is that it's teaching this n00b coder that computer science is essentially computer science, regardless of programming language or syntax.
 
-For example, having learned data structures in Java, I basically already know data structures in C. Sure there are some slight differences but an array is an array and a stack is a stack. It doesn't matter what language you implement the structure, the concept is the same even if the syntax or memory managment is different.
+For example, having learned data structures in Java, I basically already know data structures in C. Sure there are some slight differences but an array is an array and a stack is a stack. It doesn't matter what language you implement the structure, the concept is the same even if the syntax or memory management is different.
 
 In the same regard, loops are still loops, variables are variable, and... well, you get the idea.
 
-So I'm slogging through C as quickly as I can before classes start, although my pace is faster than I expected. The takeway here from one n00b to another: ***focus intensely on programming concepts because most of them apply to whatever language you use or learn***. 
+So I'm slogging through C as quickly as I can before classes start, although my pace is faster than I expected. The takeaway here from one n00b to another: ***focus intensely on programming concepts because most of them apply to whatever language you use or learn***. 
 
 And to that end, switching from one language to another isn't as challenging as you might think, provided you have solid fundamentals of the concepts. It's even easier if the language you know is similar to the one you have to learn, such as the case from my Java experience easily translated to C programming.
 
-![Newest Georgia Tech Masters student in CS](/src/images/georgia-tech-shirt.jpg)
+![Newest Georgia Tech Masters student in CS](../src/images/georgia-tech-shirt.jpg)
 
-Before I get back to my immersion of C programming, I've also been working on some small side projects. 
+Before I get back to my immersion in C programming with more coursework, I've should note I've also been working on some small side projects. 
 
-These are personal apps so I won't share the details for now. 
+These are personal apps so I won't share the details (for now). 
 
-Suffice it to say, I'm stretching myself with a [MERN application](https://www.mongodb.com/mern-stack), i.e.: MongoDB, Express, React, and Node. It's early yet but I do have my Node server succefully GETing data from my MongoDB in the cloud. :)
+Suffice it to say, I'm stretching myself with a [MERN application](https://www.mongodb.com/mern-stack), i.e.: MongoDB, Express, React, and Node. It's early yet but I do have my Node server successfully GETing data from my MongoDB in the cloud. :)
