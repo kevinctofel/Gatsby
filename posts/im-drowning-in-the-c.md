@@ -34,7 +34,7 @@ For example, having learned data structures in Java, I basically already know da
 
 In the same regard, loops are still loops, variables are variable, and... well, you get the idea.
 
-<img src="../src/images/georgia-tech-shirt.jpg" width="300" align="right">So I'm slogging through C as quickly as I can before classes start, although my pace is faster than I expected. The takeaway here from one n00b to another: ***focus intensely on programming concepts because most of them apply to whatever language you use or learn***. 
+So I'm slogging through C as quickly as I can before classes start, although my pace is faster than I expected. The takeaway here from one n00b to another: ***focus intensely on programming concepts because most of them apply to whatever language you use or learn***. 
 
 And to that end, switching from one language to another isn't as challenging as you might think, provided you have solid fundamentals of the concepts. It's even easier if the language you know is similar to the one you have to learn, such as the case from my Java experience easily translated to C programming.
 
