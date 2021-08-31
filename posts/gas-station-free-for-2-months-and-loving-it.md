@@ -15,7 +15,7 @@ So two months ago today, I sold a very fun car for a very almost fun car. Yup, I
 
 The car I traded in was a manual 2019 Ford Fiest ST. 
 
-![2019 Ford Fiest ST](/src/images/img_20190617_172743-1-.jpg)
+![2019 Ford Fiest ST](../src/images/img_20190617_172743-1-.jpg)
 
 I enjoyed using the stick shift, spooling up the turbocharger and driving it like it was a go-cart. I bought it new in 2019. And over the two years that I had it, I put roughly 4,300 miles on it. Working at home and dealing with COVID-19 for much of that time are the main reasons the mileage was so low.
 
@@ -23,7 +23,7 @@ Because of the current chip shortages affecting the new car industry, as well as
 
 After about 30 hours of research and comparing the findings with my needs, I decided to get a used, 2018 Nissan Leaf SV. It cost me less than the value of my Ford, just came off a lease and had 37,000 miles.
 
-![](/src/images/img_0594-1-.jpg "2018 Nissan Leaf SV")
+![](../src/images/img_0594-1-.jpg "2018 Nissan Leaf SV")
 
 Why not a Tesla or some other electric vehicle? I simply don't need something that expensive, no matter how much nicer they are in any number of ways.
 
@@ -33,7 +33,7 @@ The 40 kWh battery (of which 38 kWh are usable) has an estimated range of 150 mi
 
 But I obviously don't drive much. I do a few miles here and there around town or hop over to the local WaWa to grab some lunch every few days. So I'm only charging it every two weeks or so. 
 
-![](/src/images/img_0610.jpg "2018 Nissan Leaf dashboard")
+![](../src/images/img_0610.jpg "2018 Nissan Leaf dashboard")
 
 In fact, I'm using a car charger with a standard 120 V outlet. I only gain about 4 to 5 miles of range per hour with this method, but it's easier on the battery. And frankly, I don't typically need to go anywhere very far all of a sudden. If I know I'm going to drive 50, 75, or 100 miles, I just plan out my charging.
 
