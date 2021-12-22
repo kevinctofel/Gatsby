@@ -9,7 +9,7 @@ Well, my first semester in the Georgia Tech OMSCS program is over. And my first 
 
 ### My decision isn’t because of the program, it’s because of me. At least in a sense.
 
-I’ll say upfront that I think the program is fantastic. Georgia Tech has created an affordable, top-notch advanced degree path in Computer Science. Seriously, it’s undervalued at $800 per class. And although I only took one course, I reviewed many of the syllabuses and video lectures from a bunch of other classes. They’re all available online for anyone to see. And they’re all very interesting for their respective topics.
+I’ll say upfront that I think the program is fantastic. Georgia Tech has created an affordable, top-notch advanced degree path in Computer Science. Seriously, it’s undervalued at $800 per class. And although I only took one course, I reviewed many of the syllabuses and video lectures from a bunch of other classes. [They’re all available online for anyone to see](https://omscs.gatech.edu/current-courses). And they’re all very interesting for their respective topics.
 
 My Human-Computer Interaction course was excellent as well. Yes, it was a lot of work, but that’s to be expected at this level. I learned a ton. More than I expected. My class notes totaled more than 18,000 words!
 
@@ -23,7 +23,7 @@ Overall, I can’t complain one bit about the course materials, the lectures, no
 
 Like I said it really has to do with ***me***. In a learning environment, I thrive on educational and social engagement with my peers. It’s one of the reasons I really got involved at my local community college when taking CS classes from 2018 to 2020. Instead of watching my classmates leave campus after class (typical for a county-based commuter school), I challenged them to join me for study groups. 
 
-And so we started up in the campus library with me just sitting by myself for the first week. Then one or two students joined in. Halfway through the semester, nearly half the class made regular appearances and we informally gathered a few times a week. We went from individually working out various challenges to working together as a group to help anyone who needed it. Effectively, we learned more together than we would have done alone. I loved it.
+So I started up in the campus library with me just sitting by myself for the first week. Then one or two students joined in. Halfway through the semester, nearly half the class made regular appearances and we informally gathered a few times a week. We went from individually working out various challenges to working together as a group to help anyone who needed it. Effectively, we learned more together than we would have done alone. I loved it.
 
 That’s difficult to do in today’s world as COVID has impacted the entire globe. Many schools have gone from in-person to hybrid learning and to online only. And to be fair to Georgia Tech, I knew when I applied that it was an asynchronous, online only program. I really thought I could deal with that.
 
