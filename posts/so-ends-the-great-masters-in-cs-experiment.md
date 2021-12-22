@@ -2,7 +2,7 @@
 tags:
   - CS
 published: true
-date: 2021-12-22T15:47:36.993Z
+date: 2021-12-22T16:16:31.416Z
 title: So ends the great Masters in CS experiment
 ---
 Well, my first semester in the Georgia Tech OMSCS program is over. And my first semester is also my last semester. I’ve decided to not continue this online Masters program.
@@ -23,7 +23,7 @@ Overall, I can’t complain one bit about the course materials, the lectures, no
 
 Like I said it really has to do with ***me***. In a learning environment, I thrive on educational and social engagement with my peers. It’s one of the reasons I really got involved at my local community college when taking CS classes from 2018 to 2020. Instead of watching my classmates leave campus after class (typical for a county-based commuter school), I challenged them to join me for study groups. 
 
-So I started up in the campus library with me just sitting by myself for the first week. Then one or two students joined in. Halfway through the semester, nearly half the class made regular appearances and we informally gathered a few times a week. We went from individually working out various challenges to working together as a group to help anyone who needed it. Effectively, we learned more together than we would have done alone. I loved it.
+So I started up in the campus library with me just sitting by myself for the first week. Then one or two students joined in. Halfway through the semester, nearly half the class made regular appearances and we informally gathered a few times a week. We went from individually working out various challenges to working together as a group to help anyone who needed it. Effectively, *we learned more together than we would have done alone*. I loved it.
 
 That’s difficult to do in today’s world as COVID has impacted the entire globe. Many schools have gone from in-person to hybrid learning and to online only. And to be fair to Georgia Tech, I knew when I applied that it was an asynchronous, online only program. I really thought I could deal with that.
 
