@@ -13,7 +13,7 @@ I’ll say upfront that I think the program is fantastic. Georgia Tech has creat
 
 My Human-Computer Interaction course was excellent as well. Yes, it was a lot of work, but that’s to be expected at this level. I learned a ton. More than I expected. My class notes totaled more than 18,000 words!
 
-![](/src/images/1bc10e47-88e9-4f8e-b408-a3f125ad87c8.jpeg)
+![](../src/images/1bc10e47-88e9-4f8e-b408-a3f125ad87c8.jpeg)
 
 The professor, who is also the director of the OMSCS program, is a fantastic presenter filled with passion. He made what could have been mundane at times very interesting. And he was very responsive, both on the class forms, as well as a few personal email interactions I had with him.
 
