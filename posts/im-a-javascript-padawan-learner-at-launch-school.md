@@ -3,7 +3,7 @@ tags:
   - javascript
   - CS
 published: true
-date: 2022-02-06T22:39:05.725Z
+date: 2022-02-06T23:11:24.314Z
 title: I'm a JavaScript padawan learner at Launch School
 ---
 Anyone who knows me even a little knows that I can't sit still when it comes to my education. Sure, I'm 52 but there's always time to learn more. That's why I went to my local community college at age 48, even though I already have a bachelor's degree. And it's why I started Georgia Tech's online Masters in Computer Science program last year.
