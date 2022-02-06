@@ -14,7 +14,7 @@ But my brain can't sit still. So a week after deciding not to continue at GT, I 
 
 In fact, I'm now a student at Launch School: A Javascript padawan that aspires to become a Javascript Master.
 
-![](/src/images/jake-loyd-as-padawan-anakain-skywalker-had-prove-himself-before-becoming-a-jedi-knight-in-star-wars.webp)
+![](../src/images/jake-loyd-as-padawan-anakain-skywalker-had-prove-himself-before-becoming-a-jedi-knight-in-star-wars.webp)
 
 Indeed, that's what Launch School offers and how it approaches the education of programming. It's a Mastery Based Approach, which completely turns education on it's head. 
 
@@ -24,13 +24,13 @@ See, you don't move on from one class to the next at a set point in time with th
 
 And that makes sense: If you haven't mastered the fundamentals in JavaScript 101, for example, how do you expect to master those in JavaScript 201?
 
-![](/src/images/pedagogical-style-by-learning-phase-chart-1cd2ca97882f4a3fbc0aa3d24dccca7480c48a9ed869cf65c9d2328b6ce5aa21.jpg)
+![](../src/images/pedagogical-style-by-learning-phase-chart-1cd2ca97882f4a3fbc0aa3d24dccca7480c48a9ed869cf65c9d2328b6ce5aa21.jpg)
 
 Aside from this approach that really speaks to me: I decided on Launch School because of what it could provide that I didn't get out of the GT program: A very active group of helpful learners that are highly engaged, and regularly scheduled online video chat study groups.
 
 Now I haven't yet taken advantage of the latter, but I sure have with the former. I'm connecting with my peers on a daily basis in Slack. There are great programming conversations, tons of questions (along with quick, detailed answers), and even a Pet Photos channel. So Norm gets his chance to be involved too.
 
-![](/src/images/img_1236.jpg)
+![](../src/images/img_1236.jpg)
 
 So while the Launch School program sounds similar to GT (being asynchronous and completely online), it still fulfills my social engagement requirements of online learning.
 
