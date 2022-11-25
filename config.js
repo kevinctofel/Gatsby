@@ -7,12 +7,13 @@ module.exports = {
   copyright: "© 2020 Kevin C. Tofel, All rights reserved",
   author: {
     name: "Kevin C. Tofel",
-    bio: "51 year old CS student",
+    bio: "53 year old CS student",
     contacts: {
       linkedin: "https://www.linkedin.com/in/kevinctofel/",
       github: "https://github.com/kevinctofel",
       freecodecamp: "https://www.freecodecamp.org/kevinctofel",
-      twitter: "https://twitter.com/kevinctofel",
+      mastodon: "https://hachyderm.io/@kevinctofel",
+      twitter_archive: "https://kevinctofel.github.io/Twitter/"
     },
   },
   labels: [
