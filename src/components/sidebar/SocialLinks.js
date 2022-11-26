@@ -44,7 +44,7 @@ const SocialLinks = ({ contacts }) => {
                 </span>
             </a>
             <a className="text-secondary p-2"
-                href="hachyderm.io/@kevinctofel">
+                href="https://hachyderm.io/@kevinctofel">
                 <span title="Mastodon">
                     <FaMastodon size={26} style={{ color: "secondary" }} />
                 </span>
