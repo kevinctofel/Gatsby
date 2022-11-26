@@ -4,7 +4,8 @@ import {
     FaGithubSquare,
     FaStackOverflow,
     FaFreeCodeCamp,
-    FaTwitterSquare
+    FaTwitterSquare,
+    FaMastodon
 } from "react-icons/fa"
 import "./sidebar.css"
 
@@ -40,6 +41,12 @@ const SocialLinks = ({ contacts }) => {
                 href={contacts.twitter}>
                 <span title="Twitter">
                     <FaTwitterSquare size={26} style={{ color: "secondary" }} />
+                </span>
+            </a>
+            <a className="text-secondary p-2"
+                href={hachyderm.io/@kevinctofel}>
+                <span title="Mastodon">
+                    <FaMastodon size={26} style={{ color: "secondary" }} />
                 </span>
             </a>
         </div>
