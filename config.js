@@ -13,7 +13,7 @@ module.exports = {
       github: "https://github.com/kevinctofel",
       freecodecamp: "https://www.freecodecamp.org/kevinctofel",
       mastodon: "https://hachyderm.io/@kevinctofel",
-      twitter_archive: "https://kevinctofel.github.io/Twitter/"
+      twitter: "https://kevinctofel.github.io/Twitter/"
     },
   },
   labels: [
