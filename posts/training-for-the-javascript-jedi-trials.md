@@ -1,6 +1,6 @@
 ---
 tags:
-  - JavaScript
+  - javascript
 published: true
 date: 2022-11-28T14:21:42.131Z
 title: Training for the JavaScript Jedi Trials
