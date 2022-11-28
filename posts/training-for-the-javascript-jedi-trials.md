@@ -19,13 +19,21 @@ Now that I've completed the course, I can say with certainty: A JavaScript maste
 
 ## The plan
 
-First, I'll be re-reviewing all of the course material and my notes from the beginning. My notes alone total more than 20,000 words in Notion, so this is a big task. However, since it's a second pass at the materials, everything should at least look or sound familiar. I can zip through some concepts while others may take a little time. I may even re-read the pre-course book,[Introduction to Programming with JavaScript](https://launchschool.com/books/javascript). This online text is reasonably comprehensive and freely available if you're interested.
+First, I'll be re-reviewing all of the course material and my notes from the beginning. My notes alone total more than 20,000 words in Notion, so this is a big task. However, since it's a second pass at the materials, everything should at least look or sound familiar. I can zip through some concepts while others may take a little time. I may even re-read the pre-course book, [Introduction to Programming with JavaScript](https://launchschool.com/books/javascript). This online text is reasonably comprehensive and freely available if you're interested.
 
-Second, instead of taking a second set of notes, I want to start writing up some of the concepts in my own words as if I were teaching JavaScript. If you can't explain something to someone else, you certainly aren't a master of that something. I may keep those writings private. Or I may turn them into blog posts here. No, the world doesn't need yet another site to teach JavaScript. But this would be good practice for me. And it might help someone else, either at Launch School or in the wider galaxy.
+![Introduction to Programming with JavaScript book](/src/images/a52cc2c5-5643-4908-9921-e1be83ab99ea.png)
 
-Lastly, I'll complete coding exercises. Launch School offers its own exercises and I completed those during my Padawan training. However, I have more JavaScript tools in my toolbox to rework, re-do and/or refactor my solutions. I'll probably supplement these exercises with some from external sources. I need to make sure they're relevant to what I learned in JS101 though. Although I understand recursion, having learned the practice in a Java class a few years back, that's not a JS101 concept. So I don't want to add any extra bits that weren't covered in JS101.
+Second, instead of taking a second set of notes, I want to start writing up some of the concepts in my own words as if I were teaching JavaScript. 
 
-*Maybe* I'll record myself doing some coding exercises to simulate a live-coding environment. The interview part of the assessment will surely entail live coding and I know that's a bit different than coding alone.
+If you can't explain something to someone else, you certainly aren't a master of that something. I may keep those writings private. Or I may turn them into blog posts here. No, the world doesn't need yet another site to teach JavaScript. But this would be good practice for me. And it might help someone else, either at Launch School or in the wider galaxy.
+
+Lastly, I'll complete coding exercises. Launch School offers its own exercises and I completed those during my Padawan training. However, I have more JavaScript tools in my toolbox to rework, re-do and/or refactor my solutions. 
+
+I'll probably supplement these exercises with some from external sources. I need to make sure they're relevant to what I learned in JS101 though. Although I understand recursion, having learned the practice in a Java class a few years back, that's not a JS101 concept. So I don't want to add any extra bits that weren't covered in JS101.
+
+![Recursion meme](/src/images/47335bed-f0e2-4720-affb-81e8eb19e1b6.webp)
+
+*Maybe* I'll record myself doing some coding exercises to simulate a live-coding environment. The interview part of the assessment will surely entail live coding and I know that's a bit different than coding alone. I might even publish some of these, in case they help others.
 
 All told, I think this approach is a solid one. At least for me. Everyone learns in different ways, of course. And at different speeds. 
 
