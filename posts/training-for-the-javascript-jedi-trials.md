@@ -2,7 +2,7 @@
 tags:
   - JavaScript
 published: true
-date: 2022-11-28T02:49:41.767Z
+date: 2022-11-28T14:21:42.131Z
 title: Training for the JavaScript Jedi Trials
 ---
 Since February of this year, I've been a JavaScript Padawan. If you're not familiar with the term Padawan, it's a reference to [a Jedi-in-training,  apprenticed to a Jedi Master in Star Wars](https://www.starwars.com/news/what-is-a-padawan). 
