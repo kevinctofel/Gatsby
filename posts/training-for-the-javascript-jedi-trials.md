@@ -5,7 +5,7 @@ published: true
 date: 2022-11-28T14:21:42.131Z
 title: Training for the JavaScript Jedi Trials
 ---
-Since February of this year, I've been a JavaScript Padawan. If you're not familiar with the term Padawan, it's a reference to [a Jedi-in-training,  apprenticed to a Jedi Master in Star Wars](https://www.starwars.com/news/what-is-a-padawan). 
+Since February of this year, I've been a JavaScript Padawan. If you're not familiar with the term Padawan, it's a reference to [a Jedi-in-training, apprenticed to a Jedi Master in Star Wars](https://www.starwars.com/news/what-is-a-padawan). 
 
 I'm not *actually* apprenticed to a Jedi, although that's a nice bucket list item. However, I have studied [JavaScript 101](https://launchschool.com/courses), the first course at Launch School, for most of this year. And since the approach of Launch School is one of [mastery-based learning](https://launchschool.com/mastery), the whole JavaScript Padawan thing fits the situation. 
 
