@@ -9,7 +9,7 @@ Since February of this year, I've been a JavaScript Padawan. If you're not famil
 
 I'm not *actually* apprenticed to a Jedi, although that's a nice bucket list item. However, I have studied [JavaScript 101](https://launchschool.com/courses), the first course at Launch School,for most of this year. And since the approach of Launch School is one of [mastery-based learning](https://launchschool.com/mastery), the whole JavaScript Padawan thing fits the situation. 
 
-![](/src/images/jake-loyd-as-padawan-anakain-skywalker-had-prove-himself-before-becoming-a-jedi-knight-in-star-wars.webp)
+![Young Anakin Skywalker as a padawan learner](/src/images/jake-loyd-as-padawan-anakain-skywalker-had-prove-himself-before-becoming-a-jedi-knight-in-star-wars.webp)
 
 Before a Padawan can become a Jedi Knight, they must pass the Jedi Trials. So too must I now pass a trial. I can't proceed to the next Launch School class until I pass my assessment. (Will there be Jedi Knights and Masters there?)
 
