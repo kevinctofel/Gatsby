@@ -2,6 +2,7 @@ const siteConfig = require("./config")
 
 module.exports = {
   siteMetadata: {
+    siteUrl: "https://kctofel.com",
     url: siteConfig.url,
     title: siteConfig.title,
     tagline: siteConfig.tagline,
@@ -17,6 +18,7 @@ module.exports = {
     labels: siteConfig.labels,
   },
   plugins: [
+    'gatsby-plugin-feed',
     `gatsby-plugin-react-helmet`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
