@@ -21,7 +21,7 @@ H﻿ere's an example showing the reason Santa needs a better hiring manager.
 
 <iframe src="https://hachyderm.io/@kevinctofel/109449719901265504/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://hachyderm.io/embed.js" async="async"></script>
 
-It's a little intimidating, but I'm learning a ton. And I realized after the first few days to focus my solution on a small subset of the input data. Once I "crack the code" so to speak, I can easily scale my solution up to the full data set.
+It's a little intimidating, but I'm learning a ton. And I realized after the first few days to focus my solution on a small subset of the input data. Once I "crack the code" so to speak, I can easily scale my solution up to the full data set. Regardless, these challenges have taken between 2 to 4 hours of each day.
 
 ## A﻿ solution to finding exactly what I'm searching for in my notes
 
@@ -36,3 +36,5 @@ O﻿ne of the nice features is that Dendron can gather up all those Markdown fil
 I have my own little MDN docs site started now! Here's a brief look at the web output running locally on my Chromebook after taking just a few notes. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RLnwbqEB1-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+A﻿gain, Notion is fantastic. Had I organized my thoughts in a particular way from the get-go, I'd be using Notion for my JavaScript assessment preparations. Lesson learned!
