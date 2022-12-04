@@ -38,3 +38,9 @@ I have my own little MDN docs site started now! Here's a brief look at the web o
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RLnwbqEB1-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 A﻿gain, Notion is fantastic. Had I organized my thoughts in a particular way from the get-go, I'd be using Notion for my JavaScript assessment preparations. Lesson learned!
+
+## H﻿ello, RSS feed!
+
+O﻿ne last update that's long overdue. Since I was on a roll with my coding this week, I added an RSS feed to this site. I write my posts using Markdown in a GitHub repo and whenever that repo is updated, Netlify creates and publishes the output using Gatsby. I did some research and found a Gatsby plug-in to create the RSS feed and once I successfully tested it on my local device, I pushed the change. 
+
+S﻿o for the three of you that asked for an RSS feed: This one's for you! I haven't yet added an RSS button to the site but you can add https://www.kctofel.com/rss.xml to your favorite feedr eader to follow along, going forward. I still have comments and other features to implement but they'll have to wait. Santa's elves are borking things up again and I have to write some code now to address that problem!
