@@ -22,3 +22,17 @@ H﻿ere's an example showing the reason Santa needs a better hiring manager.
 <iframe src="https://hachyderm.io/@kevinctofel/109449719901265504/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://hachyderm.io/embed.js" async="async"></script>
 
 It's a little intimidating, but I'm learning a ton. And I realized after the first few days to focus my solution on a small subset of the input data. Once I "crack the code" so to speak, I can easily scale my solution up to the full data set.
+
+## A﻿ solution to finding exactly what I'm searching for in my notes
+
+E﻿arlier in the week, I also mentioned that I had 20,000 words of notes in Notion that I took during my JavaScript class. Notion is an excellent tool. However, I didn't use it in a way that makes my notes easily searchable. Instead of really long page of notes with section toggles for my class, I probably should have created individual pages for each concept.
+
+B﻿ut I didn't. So searching in Notion generally returns large numbers of results that I have to manually sift through. I decided to research alternatives and came across [Dendron](https://www.dendron.so). 
+
+I﻿t's a VS Code extension that supports Markdown notes. And it's meant to organize your notes in a way that makes them quickly searchable. By creating each note using a programming-like "dot" notation you can use the autocomplete function of VS Code to find exactly what you need in an instant. Check the Dendron site for an overview and demo in VS Code.
+
+O﻿ne of the nice features is that Dendron can gather up all those Markdown files, which I sync to GitHub. Using those files and a Next.js template, it converts the Markdown notes to HTML pages that you can publish. 
+
+I have my own little MDN docs site started now! Here's a brief look at the web output running locally on my Chromebook after taking just a few notes. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RLnwbqEB1-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
