@@ -19,7 +19,7 @@ I﻿'m generally OK with that. But thanks to the super inefficient elves that Sa
 
 H﻿ere's an example showing the reason Santa needs a better hiring manager.
 
-<iframe src="https://hachyderm.io/@kevinctofel/109449719901265504/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://hachyderm.io/embed.js" async="async"></script>
+<iframe src="https://hachyderm.io/@kevinctofel/109449719901265504/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" height="400" allowfullscreen="allowfullscreen"></iframe><script src="https://hachyderm.io/embed.js" async="async"></script> 
 
 It's a little intimidating, but I'm learning a ton. And I realized after the first few days to focus my solution on a small subset of the input data. Once I "crack the code" so to speak, I can easily scale my solution up to the full data set. Regardless, these challenges have taken between 2 to 4 hours of each day.
 
