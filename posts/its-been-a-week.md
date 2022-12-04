@@ -2,7 +2,7 @@
 tags:
   - javascript
 published: true
-date: 2022-12-04T23:22:18.140Z
+date: 2022-12-04T23:47:31.709Z
 title: It's been a... week
 ---
 W﻿hat a long, busy week. I mentioned on Monday that I'm beginning to prep for my first JavaScript assessment. And I put a good 15 hours in on that effort. I also wrote five blog posts about Chromebooks, recorded an IoT podcast, and wrote the news for an IoT-related newsletter. Oh, and my own newsletter was written and published this morning.
