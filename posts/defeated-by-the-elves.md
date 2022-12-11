@@ -11,7 +11,7 @@ I﻿ had high hopes initially, even knowing that my limited JavaScript skills di
 
 The [first JavaScript course at Launch School](https://launchschool.com/curriculum/courses/804d1cae) doesn't teach you how to fully use Node.js, for example. So when I had to read in a data file for each challenge, I learned how to use [Node's file system functions](https://nodejs.org/api/fs.html)
 
-![Javascript code using Node for file I/O](/src/images/screenshot-2022-12-11-12.53.31-pm.jpg)
+![Javascript code using Node for file I/O](../src/images/screenshot-2022-12-11-12.53.31-pm.jpg)
 
 A﻿ll in all, I consider this year's Advent of Code meager participation a win. Anytime I can push boundaries and learn more is a good thing.
 
@@ -23,7 +23,7 @@ I﻿ had this running on my local machines last week. Now it's out on the web; a
 
 I﻿ only got the publishing aspect working very late last night. So the "home" page is a filler template that I need to customize. More important is the left sidebar showing my note hierarchy. 
 
-![Null in JavaScript](/src/images/screenshot-2022-12-11-1.11.57-pm.jpg)
+![Null in JavaScript](../src/images/screenshot-2022-12-11-1.11.57-pm.jpg)
 
 And the built-in search bar is awesome: Start with a "/" (no quotes) and begin to type JavaScript, Arrays, infinity, variables, or some other keyword. Watch the quick and accurate results! 
 
@@ -33,7 +33,7 @@ B﻿est of all is a GitHub Action I have for this repository of notes. Whenever 
 
 T﻿his week I also downloaded all of my Instagram data. I haven't closed my account yet but I'm considering it. This morning, I created a new account at metapixl.com, which is one of a few Pixelfed servers. 
 
-![My account on Metapixl](/src/images/screenshot-2022-12-11-1.05.23-pm.jpg)
+![My account on Metapixl](../src/images/screenshot-2022-12-11-1.05.23-pm.jpg)
 
 Yup, this is part of the same Fediverse as Mastodon. 
 
