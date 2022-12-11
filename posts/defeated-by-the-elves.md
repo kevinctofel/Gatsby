@@ -29,4 +29,6 @@ T﻿his week I also downloaded all of my Instagram data. I haven't closed my acc
 
 ![My account on Metapixl](/src/images/screenshot-2022-12-11-1.05.23-pm.jpg)
 
-Yup, this is part of the same Fediverse as Mastodon. In fact, using Mastodon, I can follow others on Pixelfed instances, which is slick. I'm still working through how all the Fedviers pieced connect and play together from a workflow standpoint. There's always more to learn!
+Yup, this is part of the same Fediverse as Mastodon. 
+
+In fact, using Mastodon, I can follow others on Pixelfed instances, which is slick. I'm still working through how all the Fedviers pieced connect and play together from a workflow standpoint. There's always more to learn!
