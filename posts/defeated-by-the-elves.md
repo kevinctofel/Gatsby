@@ -21,7 +21,13 @@ S﻿peaking of learning things, I previously mentioned the use of [D﻿endron](h
 
 I﻿ had this running on my local machines last week. Now it's out on the web; at least for now. I may change my notes to private in the future. Until I do, you can [see how it works right here](https://kevinctofel.github.io/JS109_assessment).
 
-I﻿ only got the publishing aspect working very late last night. So the "home" page is a filler template that I need to customize. More important is the left sidebar showing my note hierarchy. And best of all is using the built in search bar: Start with a "/" (no quotes) and begin to type JavaScript, Arrays, infinity, variables, or some other keyword. Watch the quick and accurate results! 
+I﻿ only got the publishing aspect working very late last night. So the "home" page is a filler template that I need to customize. More important is the left sidebar showing my note hierarchy. 
+
+![Null in JavaScript](/src/images/screenshot-2022-12-11-1.11.57-pm.jpg)
+
+And the built-in search bar is awesome: Start with a "/" (no quotes) and begin to type JavaScript, Arrays, infinity, variables, or some other keyword. Watch the quick and accurate results! 
+
+B﻿est of all is a GitHub Action I have for this repository of notes. Whenever I commit new notes to GitHub, it automatically rebuilds the site with the latest brain dump!
 
 ## S﻿o long Insta?
 
@@ -32,3 +38,5 @@ T﻿his week I also downloaded all of my Instagram data. I haven't closed my acc
 Yup, this is part of the same Fediverse as Mastodon. 
 
 In fact, using Mastodon, I can follow others on Pixelfed instances, which is slick. I'm still working through how all the Fedviers pieced connect and play together from a workflow standpoint. There's always more to learn!
+
+I﻿n fact, that's one of the driving forces that keeps me happy and sane. I try not to let a single day go by without learning something new. It's a mantra that I've included in most of my adult life and it has served me well. Maybe it's one that can do the same for you.
