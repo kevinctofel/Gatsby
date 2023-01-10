@@ -49,7 +49,7 @@ const AboutPage = (props) => {
                             <li><a href="https://zatznotfunny.com/2012-08/kevin-tofel-inspires-apple-to-build-7-ipad/">I inspired Apple to make the iPad mini.</a></li>
                             <li>I worked with the Android and Chrome teams at Google from early 2016 to mid-2017.</li>
                             <li>At age 47, I took CS classes at the local community college for fun and to mentor my peers.</li>
-                            <li>Now at age 53, I study JavaScript development <a href="https://www.launchschool.com>at Launch School</a>.</li>                                                                                           
+                            <li>Now at age 53, I study JavaScript development <a href="https://www.launchschool.com>at Launch School">at Launch School</a>.</li>                                                                                           
                             <li>I love to learn. I love helping others learn even more.</li>
                             <li>I have a <em>lot</em> more to learn.</li>
                         </ul>
