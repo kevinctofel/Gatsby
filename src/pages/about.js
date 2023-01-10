@@ -45,11 +45,11 @@ const AboutPage = (props) => {
                             <li>I've failed many more times than I've suceeded. I'm OK with that.</li>
                             <li>I'm mostly self-taught in technology, growing up with a C-64.</li>
                             <li>I've done every IT job imaginable, <a href="https://en.wikipedia.org/wiki/Electronic_Data_Systems">working</a> <a href="https://www.wikiwand.com/en/GMAC_ResCap">at</a> <a href="https://www.aetna.com/">three</a> Fortune 100 companies for 15 years.</li>
-                            <li>My personal blog on mobile technology was bought in 2008 where [I wrote 9,744 blog posts](https://research.gigaom.com/author/kevintofel/).</li>
+                            <li>My personal blog on mobile technology was bought in 2008 where <a href="https://research.gigaom.com/author/kevintofel/">I wrote 9,744 blog posts.</a></li>
                             <li><a href="https://zatznotfunny.com/2012-08/kevin-tofel-inspires-apple-to-build-7-ipad/">I inspired Apple to make the iPad mini.</a></li>
                             <li>I worked with the Android and Chrome teams at Google from early 2016 to mid-2017.</li>
                             <li>At age 47, I took CS classes at the local community college for fun and to mentor my peers.</li>
-                            <li>Now at age 53, I study JavaScript development at [Launch School](www.launchschool.com)                                                                                              
+                            <li>Now at age 53, I study JavaScript development <a href="https://www.launchschool.com>at Launch School</a>.</li>                                                                                           
                             <li>I love to learn. I love helping others learn even more.</li>
                             <li>I have a <em>lot</em> more to learn.</li>
                         </ul>
