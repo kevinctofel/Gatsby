@@ -35,7 +35,7 @@ T﻿his model came with Windows 11 Professional pre-installed and activated, whi
 
 I﻿ originally planned to swap out the included SSD from the Beelink so that I had a Windows install and license available in the future. I figured, I'll just insert a blank SSD and install Linux. And it's easy to get at the SSD, not to mention the two 8 GB memory modules in the Beelink.
 
-![Inside the Beelink SER5 Mini PC](/src/images/inside-the-beelink.jpeg)
+![Inside the Beelink SER5 Mini PC](../src/images/inside-the-beelink.jpeg)
 
 U﻿ltimately, I decided to just wipe Windows 11 and use the included SSD. I don't think I'll need that Windows 11 license. I know PC makers get Windows licenses at a discount but if I have to buy one, it costs $199 for Pro. That's insane when you realize I paid $299 for the included license and the hardware itself. 
 
