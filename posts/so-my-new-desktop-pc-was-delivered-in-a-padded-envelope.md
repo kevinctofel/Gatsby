@@ -7,7 +7,7 @@ title: So my new desktop PC was delivered in a padded envelope
 ---
 I﻿t's been [nearly three years](https://www.kctofel.com/2020-06-28-should-everyone-build-their-own-pc-at-least-once/) since I custom build my last desktop PC. And to be honest, I love that computer. Between the more than good enough AMD Ryzen processor and an AMD Radeon 6800XT GPU, it's fantastic for gaming. Initially, I[ had an NVIDIA RTX 3080 installed](https://www.kctofel.com/so-i-hit-the-nvidia-rtx-3080-lottery/) but recently swapped my son for his GPU. He's more into gaming than I am.
 
-![Nvidia RTX 3080 GPU in a custom built PC](/src/images/nvidia-rtx-3080-installed.jpg)
+![Nvidia RTX 3080 GPU in a custom built PC](../src/images/nvidia-rtx-3080-installed.jpg)
 
 Obviously, that much power works for everyday use as well. However, it also ***uses*** a lot of power. So I researched some of the latest mini PC options.
 
@@ -15,7 +15,7 @@ Obviously, that much power works for everyday use as well. However, it also ***u
 
 A﻿fter deciding what would meet my needs at a modest cost, I spent $299 on a discounted [Beelink SER5 Mini PC](https://amzn.to/3WLZDtl) this past Friday. On Saturday, my new desktop PC arrived... in a padded envelope. Yes, it's that small! 
 
-![Beelink SER5 Mini PC box](/src/images/beelink-ser5-in-box.jpeg)
+![Beelink SER5 Mini PC box](../src/images/beelink-ser5-in-box.jpeg)
 
 T﻿he box alone is smaller than my current GPU, for example. And the best part? While my GPU alone can use anywhere from 200 to 275W, the little Beelink tops out at 50W. More often than not, it's using half of that wattage; the chip inside typically uses 15W, for example, although it can use up to 25W for boosting.
 
@@ -27,11 +27,11 @@ T﻿he Beelink SER5 solves that problem because it's quite capable. Essentially,
 
 I﻿n the case of the SER5, Beelink is using an AMD Ryzen 5600U CPU with 6 cores and 12 thread capability. The clock speeds range from 2.3GHz up to 4.3GHz, as needed. The integrated GPU is an AMD Radeon chipset with 7 cores, each running at 1.8GHz. That's plenty of horsepower for my daily webwork, [coding education at Launch School](https://launchschool.com/) and podcast recording. 
 
-![Windows 11 Professional running on the Beelink SER5 Mini PC](/src/images/windows-11-on-the-beelink.jpeg)
+![Windows 11 Professional running on the Beelink SER5 Mini PC](../src/images/windows-11-on-the-beelink.jpeg)
 
 T﻿his model came with Windows 11 Professional pre-installed and activated, which works perfectly fine. I prefer Linux, however, so I wiped Windows and installed PoP_OS!
 
-![Pop OS running on the Beelink SER5 Mini PC](/src/images/img_2241.jpeg)
+![Pop OS running on the Beelink SER5 Mini PC](../src/images/img_2241.jpeg)
 
 I﻿ originally planned to swap out the included SSD from the Beelink so that I had a Windows install and license available in the future. I figured, I'll just insert a blank SSD and install Linux. And it's easy to get at the SSD, not to mention the two 8 GB memory modules in the Beelink.
 
