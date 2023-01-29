@@ -41,6 +41,8 @@ U﻿ltimately, I decided to just wipe Windows 11 and use the included SSD. I don
 
 S﻿o far, the Beelink is doing everything I want or need to do in my office on a desktop. I have all of my coding tools installed (Node, VS Code, Git, etc...) and they work as expected. I'll be testing a podcast recording later this week. However, I've been using Audacity to record my podcasts for 17 years so I don't anticipate any issues using it here.
 
+P﻿erhaps best of all? This desktop PC is nearly dead silent! I can barely hear the fan, even when doing some computational heavy tasks. Love it!
+
 ## Y﻿es you could use this as a gaming PC but...
 
 J﻿ust for kicks, I did load up Steam and a few games. I was curious. And the results were about what I expected. To get a consistent 30fps in either The Witcher 3 or Shadow of the Tomb Raider, I had to dial down the resolution and settings quite a bit. But on a budget, these games don't look half bad and they're certainly playable. I won't get into benchmarks and performance for other games because plenty of folks have already done that. [Here's a good video overview](https://youtu.be/x4a3QDZLbvM) from that perspective.
@@ -50,3 +52,5 @@ A﻿m I happy with this Mini PC? Absolutely! It's more performant than I expecte
 S﻿peaking of performance and money, Beelink (and other Mini PC makers) already have similar options with both newer Intel and AMD chipsets. You'll pay more, of course, but if gaming is important to you, you'll have a better experience than I did. 
 
 T﻿here are a ton of choices but for the money, [I'd probably look to the $589 Beelink SER6](https://amzn.to/3Y8SUdW) and watch for a sale price. It's currently $500, for example. You'll get the same memory, storage and Wi-Fi 6E found in my Mini PC but you'll get the [AMD Ryzen 5 6600H](https://www.amd.com/en/products/apu/amd-ryzen-5-6600h). That means faster cores and better graphics, although the chipset can use up to 45W of power.
+
+\*﻿These are Amazon affiliate links. Use 'em or not, that's up to you.
