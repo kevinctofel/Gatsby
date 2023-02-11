@@ -9,6 +9,8 @@ O﻿ne: My contacts are basically "held" by big tech. I have them with Apple, Fa
 
 T﻿wo: I'm tired of managing contacts. Meaning: I want to manage my ***own*** contact information and have any updates flow out to all of my contacts. I also want to receive contact updates from my contacts automatically. And, I want to have more control over my contact information. I might want one person to have only my email address while another person is OK to have that, plus my phone number, my Mastodon handle and perhaps, if they're a close friend, my home address.
 
+## What does this look like?
+
 S﻿o, I'm envisioning both a two-way flow of contact information and some gatekeeping as to who gets what, based on my personal preferences.
 
 F﻿or reason one above, I think this has to be some sort of open source solution. While I can ***export*** my current contacts from Apple and Google, I can't put in place the solution I want through Apple or Google.
