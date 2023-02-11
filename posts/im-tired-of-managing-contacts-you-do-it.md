@@ -9,8 +9,10 @@ O﻿ne: My contacts are basically "held" by big tech. I have them with Apple, Fa
 
 T﻿wo: I'm tired of managing contacts. Meaning: I want to manage my ***own*** contact information and have any updates flow out to all of my contacts. I also want to receive contact updates from my contacts automatically. And, I want to have more control over my contact information. I might want one person to have only my email address while another person is OK to have that, plus my phone number, my Mastodon handle and perhaps, if they're a close friend, my home address.
 
-S﻿o I'm envisioning both a two-way flow of contact information and some gatekeeping as to who gets what, based on my personal preferences.
+S﻿o, I'm envisioning both a two-way flow of contact information and some gatekeeping as to who gets what, based on my personal preferences.
 
 F﻿or reason one above, I think this has to be some sort of open source solution. While I can ***export*** my current contacts from Apple and Google, I can't put in place the solution I want through Apple or Google.
 
-W﻿ith regards to reason two, I'm wondering if there's a potential solution as part of the Fediverse. This world already has push-pull types of action through ActivityPub, for example. Of course being a n00b developer-in-training, I don't know if the ActivityPub spec can be used for contact information. I do know that we have standards for contact data though: CardDAV and LDAP come to mind.
+In regards to reason two, I'm wondering if there's a potential solution as part of the Fediverse. This world already has push-pull types of action through [ActivityPub](https://www.w3.org/TR/activitypub/), for example. Of course being a n00b developer-in-training, I don't know if the ActivityPub spec can be used for contact information, although I suspect it can be used for any type of data. And I do know that we have standards for contact data though: CardDAV and LDAP come to mind.   
+
+G﻿iven that users would want their contact data encrypted, there's already a potential roadblock: ActivityPub doesn't appear to support encryption. However, [there has been some communication and thought on adding it](https://github.com/w3c/activitypub/issues/225#issuecomment-304938193). That would have to happen for a service like this to work.
