@@ -31,7 +31,7 @@ A﻿nother problem: Where is the contact data hosted? There has to be a central 
 
 I'm fine with trusting my Mastodon information with someone I don't know that runs a server, [Kris Nova](https://hachyderm.io/@nova) rocks BTW, but would I feel the same with my contact data? That issue won't be easy to overcome.
 
-G﻿etting that contact information to phone and email apps might be a challenge although I think it could be a minor one. Client apps to make calls or send emails typically support CalDAV at the very least, if not LDAP as well. I'm certainly no expert but I'm thinking I could "subscribe to" or access contacts on my server through client apps.
+G﻿etting that contact information to phone and email apps might be a challenge although I think it could be a minor one. Client apps to make calls or send emails typically support CardDAV at the very least, if not LDAP as well. I'm certainly no expert but I'm thinking I could "subscribe to" or access contacts on my server through client apps.
 
 ## W﻿hat's the point or end result?
 
