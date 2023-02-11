@@ -1,4 +1,6 @@
 ---
+tags:
+  - CompSci
 published: true
 date: 2023-02-11T14:57:15.555Z
 title: I'm tired of managing contacts. You do it!
